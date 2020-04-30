@@ -1,0 +1,149 @@
+---
+layout: post
+title:  "Predictions for World Cup 2018"
+categories: data
+tags: data_analysis football_data   
+---
+# Prediction and Results 
+
+## Round 1
+
+| Team 1         | Team 2    | Prediction  | Result  | Final Result Odds | Amount Won |
+|:-------------:|:----------:|:-----------:|:-------:|:-----------------:|:----------:|
+| Russia      | Saudi Arabia | 2 | 1 | 1.44 | -1.00 |
+| Egypt       | Uruguay      | 2 | 2 | 1.49 | +0.49 |
+| Portugal    | Spain        | X | X | 3.21 | +2.21 |
+| Morocco     | Iran         | X | 2 | 4.10 | -1.00 | 
+| France      | Australia    | 1 | 1 | 1.25 | +0.25 | 
+| Peru        | Denmark      | 2 | 2 | 2.29 | +1.29 |
+| Argentina   | Iceland      | 1 | X | 5.17 | -1.00 |
+| Croatia     | Nigeria      | 1 | 1 | 1.65 | +0.65 |
+| Brazil      | Switzerland  | 1 | X | 4.28 | -1.00 |
+| Costa Rica  | Serbia       | 2 | 2 | 1.81 | +0.81 | 
+| Germany     | Mexico       | 1 | 2 | 7.42 | -1.00 |
+| Sweden      | Korea        | 1 | 1 | 2.25 | +1.25 |
+| Belgium     | Panama       | 1 | 1 | 1.21 | +0.21 |
+| Tunisia     | England      | 2 | 2 | 1.46 | +0.46 |
+| Poland      | Senegal      | X | 2 | 3.24 | -1.00 |
+| Colombia    | Japan        | 1 | 2 | 4.92 | -1.00 |
+|      |         |  |   |
+|             |              | **Prediction Ratio** | | | 56.2% |
+|             |              | **Total Won** | | | +0.62 |
+|             |              | **Total ROI** | | | +3.8% |
+
+
+## Round 2
+
+| Team 1         | Team 2    | Prediction  | Result  | Final Result Odds | Amount Won |
+|:-------------:|:----------:|:-----------:|:-------:|:-----------------:|:----------:|
+| Russia      | Egypt        | 2 | 1 | 1.94 | -1.00 |
+| Uruguay     | Saudi Arabia | 2 | 1 | 1.20 | -1.00 |
+| Portugal    | Morocco      | 2 | 1 | 1.68 | -1.00 |
+| Spain       | Iran         | 1 | 1 | 1.20 | +0.20 |
+| France      | Peru         | 2 | 1 | 1.61 | -1.00 | 
+| Denmark     | Australia    | 1 | X | 3.35 | -1.00 |
+| Argentina   | Croatia      | X | 2 | 3.99 | -1.00 |
+| Iceland     | Nigeria      | 1 | 2 | 2.95 | -1.00 |
+| Brazil      | Costa Rica   | 1 | 1 | 1.20 | +0.20 |
+| Switzerland | Serbia       | X | 1 | 2.94 | -1.00 |
+| Germany     | Sweden       | 1 | 1 | 1.47 | +0.47 |
+| Mexico      | Korea        | 1 | 1 | 1.34 | +0.34 |
+| Belgium     | Tunisia      | 1 | 1 | 1.69 | +0.69 |
+| Panama      | England      | 2 | 2 | 1.22 | +0.22 |
+| Poland      | Colombia     | 1 | 2 | 2.14 | -1.00 |
+| Senegal     | Japan        | 1 | X | 2.90 | -1.00 |
+|      |         |  |   |
+|             |              | **Prediction Ratio** | | | 37.5% |
+|             |              | **Total Won** | | | -7.88 |
+|             |              | **Total ROI** | | | -49% |
+
+
+## Round 3
+
+| Team 1         | Team 2    | Prediction  | Result  | Final Result Odds | Amount Won |
+|:-------------:|:----------:|:-----------:|:-------:|:-----------------:|:----------:|
+| Russia      | Uruguay      | 2 | 2 | 2.68 | +1.68 |
+| Egypt       | Saudi Arabia | X | 2 | 5.05 | -1.00 |
+| Portugal    | Iran         | 1 | X | 3.90 | -1.00 |
+| Spain       | Morocco      | 1 | X | 4.79 | -1.00 |
+| France      | Denmark      | 1 | X | 2.72 | -1.00 | 
+| Peru        | Australia    | X | 1 | 2.44 | -1.00 |
+| Argentina   | Nigeria      | X | 1 | 1.49 | -1.00 |
+| Iceland     | Croatia      | 2 | 2 | 1.83 | +0.83 |
+| Brazil      | Serbia       | 1 | 1 | 1.46 | +0.46 |
+| Switzerland | Costa Rica   | 1 | X | 3.63 | -1.00 |
+| Germany     | Korea        | 1 | 2 | 17.00 | -1.00 |
+| Mexico      | Sweden       | 1 | 2 | 3.50 | -1.00 |
+| Belgium     | England      | 2 | 1 | 3.53 | -1.00 |
+| Panama      | Tunisia      | 2 | 2 | 1.84 | +0.84 |
+| Poland      | Japan        | 1 | 1 | 2.65 | +1.65 |
+| Senegal     | Colombia     | 2 | 2 | 1.76 | +0.76 |
+|      |         |  |   |
+|             |              | **Prediction Ratio** | | | 37.5% |
+|             |              | **Total Won** | | | -5.62 |
+|             |              | **Total ROI** | | | -35% |
+
+
+## Round of 16
+
+| Team 1         | Team 2    | Prediction  | Result  | Final Result Odds | Amount Won |
+|:-------------:|:----------:|:-----------:|:-------:|:-----------------:|:----------:|
+| Argentina   | France       | 1 | 2 | 2.38 | -1.00 |
+| Uruguay     | Portugal     | 2 | 1 | 2.96 | -1.00 |
+| Spain       | Russia       | 1 | X | 4.02 | -1.00 |
+| Croatia     | Denmark      | 1 | X | 3.18 | -1.00 | 
+| Brazil      | Mexico       | 1 | 1 | 1.49 | +0.49 |
+| Belgium     | Japan        | 2 | 1 | 1.41 | -1.00 |
+| Sweden      | Switzerland  | X | 1 | 3.27 | -1.00 |
+| England     | Colombia     | 1 | X | 3.09 | -1.00 |
+|      |         |  |   |
+|             |              | **Prediction Ratio** | | | 12.5% |
+|             |              | **Total Won** | | | -6.51 |
+|             |              | **Total ROI** | | | -81% |
+
+
+## Quarter Finals
+
+| Team 1         | Team 2    | Prediction  | Result  | Final Result Odds | Amount Won |
+|:-------------:|:----------:|:-----------:|:-------:|:-----------------:|:----------:|
+| Uruguay     | France       | 2 | 2 | 2.00 | +1.00 |
+| Brazil      | Belgium      | 1 | 2 | 3.67 | -1.00 |
+| Sweden      | England      | X | 2 | 1.85 | -1.00 |
+| Russia      | Croatia      | 2 | X | 3.14 | -1.00 | 
+|      |         |  |   |
+|             |              | **Prediction Ratio** | | | 25% |
+|             |              | **Total Won** | | | -3.00 |
+|             |              | **Total ROI** | | | -75% |
+
+
+## Semi Finals
+
+| Team 1         | Team 2    | Prediction  | Result  | Final Result Odds | Amount Won |
+|:--------------:|:----------:|:-----------:|:-------:|:-----------------:|:----------:|
+| France         | Belgium    | 1 | 1 | 2.55 | +1.55 |
+| England        | Croatia    | 1 | X | 2.96 | -1.00 |
+|                |            |   |   |
+|             |              | **Prediction Ratio** | | | 50% |
+|             |              | **Total Won** | | | +0.55 |
+|             |              | **Total ROI** | | | 27.5% |
+
+## Finals
+
+| Team 1         | Team 2    | Prediction  | Result  | Final Result Odds | Amount Won |
+|:--------------:|:----------:|:-----------:|:-------:|:-----------------:|:----------:|
+| France         | Croatia    | 1 | 1 | 2.10 | +1.10 |
+| England        | Belgium    | 1 | 2 | 2.20 | -1.00 |
+|                |            |   |   |
+|             |              | **Prediction Ratio** | | | 50% |
+|             |              | **Total Won** | | | +0.10 |
+|             |              | **Total ROI** | | | 5% |
+
+
+All odds are from [Odds Portal][oddsportal]
+
+# The Model 
+
+# Model Fitting
+
+
+[oddsportal]:   http://www.oddsportal.com/soccer/world/world-cup-2018/results/
