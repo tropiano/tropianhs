@@ -64,7 +64,7 @@ Or the `humanize`, to make easily readable numbers. Instead of displaying 100000
 {{ "{{ 100000000|intword " }}}}
 ```
 
-I am sure I just scratched the surface of the advantages of Django, I hope those above will make you see how easy is to do very important things when deeloping a web app.
+I am sure I just scratched the surface of the advantages of Django, I hope those above will make you see how easy is to do very important things when developing a web app.
 Just head to the [documentation][django-docs] and follow the tutorial if you wanna get started.
 
 [django]: https://www.djangoproject.com
