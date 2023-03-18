@@ -5,7 +5,7 @@ categories: webapp
 tags: indiehacking
 ---
 
-The end of the year is near and it's a good time to look back and reflect on what went right and what went wrong in my journey as a wannabe indie hacker.
+The end of the year is near, and it's a good time to look back and reflect on what went right and what went wrong in my journey as a wannabe indie hacker.
 
 ### Trendyt (January-April)
 
