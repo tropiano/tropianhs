@@ -20,7 +20,7 @@
   desc: Discover the latest Reddit trends
 
 
-- name: Rent IT
+- name: Rent IT (shut down)
   gh_user: tropiano
   url: https://www.producthunt.com/products/resolut-it#rent-it
   img: https://ph-files.imgix.net/cf43cbe6-8846-4c07-9293-c0b15a6c09f2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=72&h=72&fit=crop&bg=0fff&dpr=1
