@@ -4,7 +4,7 @@
 - name: Alfa Data (sold)
   gh_user: tropiano
   url: https://www.alfadata.xyz/
-  img: https://pbs.twimg.com/profile_images/1188208217454792704/Ne0CcETn_400x400.jpg
+  img: https://ph-files.imgix.net/442068cd-a7b3-40e4-8dec-a52e18742c6b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=64&h=64&fit=crop&dpr=1
   desc: Open Football betting powered by Machine Learning
 
 - name: Resolut it (shut down)
@@ -23,5 +23,5 @@
 - name: Rent IT
   gh_user: tropiano
   url: https://www.producthunt.com/products/resolut-it#rent-it
-  img: https://www.resolut.it/static/logo_resolutio.pnghttps://ph-files.imgix.net/cf43cbe6-8846-4c07-9293-c0b15a6c09f2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=72&h=72&fit=crop&bg=0fff&dpr=1
+  img: https://ph-files.imgix.net/cf43cbe6-8846-4c07-9293-c0b15a6c09f2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=72&h=72&fit=crop&bg=0fff&dpr=1
   desc: Live in Italy for a fraction of your rent
