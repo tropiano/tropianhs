@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Alfa Data (sold)
   gh_user: tropiano
-  url: https://www.alfadata.xyz/
+  url: https://www.producthunt.com/products/alfa-data
   img: https://ph-files.imgix.net/442068cd-a7b3-40e4-8dec-a52e18742c6b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=64&h=64&fit=crop&dpr=1
   desc: Open Football betting powered by Machine Learning
 
@@ -19,9 +19,14 @@
   img: https://ph-files.imgix.net/82ef7f9b-78c9-4cd7-98ec-005300bb3925.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=64&h=64&fit=crop&dpr=1
   desc: Discover the latest Reddit trends
 
-
 - name: Rent IT (shut down)
   gh_user: tropiano
   url: https://www.producthunt.com/products/resolut-it#rent-it
   img: https://ph-files.imgix.net/cf43cbe6-8846-4c07-9293-c0b15a6c09f2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=72&h=72&fit=crop&bg=0fff&dpr=1
   desc: Live in Italy for a fraction of your rent
+
+- name: Data Internships (active)
+  gh_user: tropiano
+  url: https://datainternships.co/
+  img: https://ph-files.imgix.net/04dfba5e-ff0d-4681-8d23-ea6403fa0cb5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=72&h=72&fit=crop&bg=0fff&dpr=1
+  desc: A curated list of Data Science Internships
