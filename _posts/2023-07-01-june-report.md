@@ -5,11 +5,11 @@ categories: diary
 tags: indie hacking
 ---
 
-I have had a pretty busy June, with quite a lot of work on the freelancing side and my two projects. I managed to launch both [Data Internships][data-internships] and [Stoic Quotes][stoic-quotes] on Product Hunt. I kept improving the websites, experimented with LLM topic recognition for quotes and managed to set up the basics of SEO (with Google Search Console). &raffic is still low but it should pick up now that I have good backlinks and hopefully good content.
+I have had a pretty busy June, with quite a lot of work on the freelancing side and my two projects. I managed to launch both [Data Internships][data-internships] and [Stoic Quotes][stoic-quotes] on Product Hunt. I kept improving the websites, experimented with LLM topic recognition for quotes and managed to set up the basics of SEO (with Google Search Console). Traffic is still low but it should pick up now that I have good backlinks and hopefully good content.
 
-Teaching has taken a lot of m time. Usually, I need an entire day to prepare a 2 hours lesson. This means that 3 days of my week are gone, The other 2 days of the week I work for my other client and try to carve out time for my personal projects.
+Teaching has taken a lot of my time. Usually, I need an entire day to prepare a 2 hours lesson. This means that 3 days of my week are gone. The other 2 days of the week I work for my other client and try to carve out time for my personal projects.
 
-Freelancing still didn't bring enough last month, so I have also spent some time looking for other opportunities. One thing I didn't expect is how long it takes to land a client, even in case he is interested. I thought Upwork was an exception but I found out that this is true also for other channels. Sometimes they do not even reply to emails, sometimes they simply ghost you. It looks like job searching more or less. Need to take this into account too going forward.
+Freelancing still didn't bring enough last month, so I have also spent some time looking for other opportunities. One thing I didn't expect is how long it takes to land a client, even in case he is interested. I thought Upwork was an exception but I found out that this is true also for other channels. Sometimes they do not even reply to emails, sometimes they simply ghost you. It looks like job searching more or less. Need to take this into account going forward.
 
 Let's look at the number for this month, I feel like I have more or less the same as last month.
 
