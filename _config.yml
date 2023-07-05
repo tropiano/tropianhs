@@ -1,8 +1,8 @@
 # Site settings
 title: Antonio Tropiano
 description: "Personal Page"
-url: "tropianhs.com"
-baseurl: "tropianhs.com"
+url: "https://www.tropianhs.com"
+baseurl: "https://www.tropianhs.com"
 profilepic: "/images/me.png"
 bkimage: "/images/bk2.jpg"
 google_analytics: G-EZZGXGYW8W
