@@ -20,7 +20,9 @@ Let's look at the number for this month, I feel like I have more or less the sam
 | Upwork freelancing | + 497.53 $     |
 | Teaching           | + 786.35 $     |
 | Appliku            | - 10.00 $      |
-| Total              | + 1273.88 $    |
+| AWS fees           | - 16.74 $      |
+| Italian P.Iva      | - 8.00 $       |
+| Total              | + 1342.74 $    |
 
 Less than last month after all. I think I need to get some more long-term clients together with the current one. This should improve the situation or at least make it stable once I stop teaching. I could keep the teaching job but, as I wrote before, it is not only very tiring but also poorly organized, which makes it quite stressful to manage. I will probably continue doing it from time to time, but the pay is below my usual rate and I will not let it eat half of my week.
 
