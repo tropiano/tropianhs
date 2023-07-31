@@ -5,7 +5,7 @@ categories: django
 tags: indie hacking
 ---
 
-I wrote about my job board the other day, one of the 2 experiments I am trying to get off the ground. The idea is to build a business without having a large audience. For SEO the URL is very important and you don't want to mess them up. From [Google's own documents][google-seo-starter] you want to `use words in URLs. URLs with words that are relevant to your site's content and structure are friendlier for visitors navigating your site`. And also, you want to `avoid using lengthy URLs with unnecessary parameters and session IDs`. So, for example, `https://datainternships.co/internships/data-scientist-italy-ferrari` is a much more SEO-friendly choice than `https://datainternships.co/internships/italy/12281726`, where we use some random id to identify the job opening.
+I wrote about my job board the other day, one of the 2 experiments I am trying to get off the ground. The idea is to build a business without having a large audience. For SEO the URL is very important and you don't want to mess them up. From [Google's documents][google-seo-starter] you want to `use words in URLs. URLs with words that are relevant to your site's content and structure are friendlier for visitors navigating your site`. And also, you want to `avoid using lengthy URLs with unnecessary parameters and session IDs`. So, for example, `https://datainternships.co/internships/data-scientist-italy-ferrari` is a much more SEO-friendly choice than `https://datainternships.co/internships/italy/12281726`, where we use some random id to identify the job opening.
 
 But how can you write SEO-friendly URLs in Django? That's where `slugs` come into play. Let's look at an example on how to implement slugs in Django.
 
@@ -68,11 +68,7 @@ class RecipeDetailView(DetailView):
     template_name = "recipe/recipe_detail.html"
 ```
 
-Now that you have a link to the recipe, you can use the slug to link directly to the `RecipeDetailView` in the usual way
-
-```{python}
-href="{% url 'recipe_detail' recipe_slug=recipe.recipe_slug %}"
-```
+Now that you have a link to the recipe, you can use the slug to link directly to the `RecipeDetailView` in the usual way, just remember to use `recipe_slug=recipe.recipe_slug %}` in your `href`.
 
 Once you run a migration with `python manage.py makemigrations` and `python manage.py migrate`, each time you insert a new recipe in the database a slug will be automatically created.
 
@@ -84,7 +80,7 @@ Something that I didn't notice when I inserted slugs is that SLUGS WILL WORK ONL
 update recipe set recipe_slug=lower(concat(nationality, '-', type, '-dishes'));
 ```
 
-This will create exactly the same pattern as our `slugify` function above. For example, if the nationality is `chinese`, and the type is `dumpling`, the field `recipe_slug`will be`chinese-dumpling-dishes`.
+This will create the same pattern as our `slugify` function above. For example, if the nationality is `chinese`, and the type is `dumpling`, the field `recipe_slug`will be`chinese-dumpling-dishes`.
 
 [google-seo-starter]: https://developers.google.com/search/docs/fundamentals/seo-starter-guide
 [full_code]: https://github.com/appliku
