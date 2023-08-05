@@ -24,10 +24,11 @@ The numbers this month should not be very far from what I made in June. They mig
 | Upwork freelancing | + 935.79$      |
 | Teaching           | + 397.20$      |
 | Appliku            | - 10.00 $      |
+| Hetzner            | - 5.31 $       |
 | AWS fees           | - 17.26$       |
 | SEO tools          | - 14.64 $      |
 | Italian P.Iva      | - 33.93 $      |
-| Total              | + 1624.92 $    |
+| Total              | + 1619.61 $    |
 
 I was wrong. It's my best month so far, and it could be better given the yearly expenses I made.
 
