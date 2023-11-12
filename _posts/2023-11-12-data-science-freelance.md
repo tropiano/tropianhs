@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Data Science Freelancing Tips"
+title: "6 months as a Data Science freelance - some tips"
 categories: diary
 tags: freelancing
 ---
