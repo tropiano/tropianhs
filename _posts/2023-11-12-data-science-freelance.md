@@ -58,5 +58,8 @@ Not all conversations will turn into a job opportunity. Sometimes they lead nowh
 
 In my experience, maybe 2-3 out of 10 conversations turn into a job offer. On Upwork, it's even worse, because of the high competition. Typically, a 10% hit rate (job offers/proposals) is a good ratio. But I never got discouraged and applied for job offers, even if I didn't know exactly how to do the job. Some of my most successful proposals came after I applied for a couple of jobs I had just a vague idea of how to do. I learned it while doing it. And the clients were very happy.
 
+I write often about my journey as a Freelance Data Scientist and about my other side projects on this blog and on [Twitter][twitter].
+
 [smallbets]: https://smallbets.co
 [daniel]: https://twitter.com/dvassallo
+[twitter]: https://twitter.com/tropianhs
