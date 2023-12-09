@@ -27,5 +27,5 @@ At the time, I didn't try freelancing seriously, because I didn't need it. But i
 
 I should also **write** more often. One of my [blog posts][blog-post] went semi-viral on Reddit this month and as a result, I got almost **200 followers on Twitter** and a huge traffic spike on my website and [Data Internships][data-internships]. I experience it again and again, putting yourself out there, sharing what you do, your learnings, your mistakes and wins, is always a good idea. There is always a **big upside** to it, and I can't think of any downside.
 
-[blog-post]: https://tropiansh.com/
+[blog-post]: https://www.tropianhs.com/diary/2023/11/12/data-science-freelance
 [data-internships]: https://datainternships.co
