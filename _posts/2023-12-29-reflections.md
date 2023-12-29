@@ -3,6 +3,7 @@ layout: post
 title: "Reflections on my 2023"
 categories: diary
 tags: indiehacking
+header-image: /images/2023_code.png
 ---
 
 I was re-reading my [2020 recap][2020 recap] today. Really enjoyed it and I want to do it again. Let's look back at this year and what happened in my journey as a wannabe entrepreneur.
