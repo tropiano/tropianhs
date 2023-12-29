@@ -21,6 +21,8 @@ Over the last 8 months, I was in more than 50 between conversations and job prop
 
 I am satisfied with my freelance journey, but I think it should not take more than 50% of my time. Ideally, keeping at 2-3 days a week should leave me the time to pursue what I really want to do. Build an **online business**.
 
+![datainternships-traffic](/images/2023_code.png){:class="img-responsive"}
+
 ### SEO experiments (June-December)
 
 I was scrolling Twitter one day in April and [this tweet][postma-tweet] by **Danny Postma** caught my eye.
