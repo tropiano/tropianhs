@@ -23,13 +23,12 @@
   {% if site.author.twitter_username %}
   <meta name="twitter:creator" content="{{ site.author.twitter_username }}">
   {% endif %}
-  <meta name="twitter:image" content="{{ site.url }}{{ page.header-image }}" />
-
+  <meta property="twitter:image" content="{{ site.url }}{{ page.header-image }}" />
   <meta property="og:type" content="article">
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:description"
     content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:image" content="{{ site.url }} {{ page.header-image }}/>
+  <meta property="og:image" content="{{ site.url }} {{ page.header-image }}" />
 
   <link rel=" apple-touch-icon" sizes="57x57" href="{{ site.baseurl }}/images/favicons/apple-touch-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="{{ site.baseurl }}/images/favicons/apple-touch-icon-60x60.png">
