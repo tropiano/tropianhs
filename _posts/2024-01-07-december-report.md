@@ -3,6 +3,7 @@ layout: post
 title: "December Earnings"
 categories: diary
 tags: indie hacking
+header-image: /images/december-report.jpg
 ---
 
 My **December** was slow, as it's usual this month, with all the holidays piling up and almost a third of the month spent buying and packing gifts, travelling back and forth and doing little work. Great business for travel agencies and candy shops. Not for freelancers and wannabe entrepreneurs like me. I took an almost complete break over the holidays, didn't even play with new techs or built a funny app like I used to do a couple of years ago. Well, I wrote a [blog post][blog-post] about **my 2023** and all the ups and downs of it. But nothing else.
@@ -15,8 +16,9 @@ Work-wise, in December I stopped working with a client. So now I have quite a bi
 | Freelancing       | + $5665        |
 | Appliku           | - $10.00       |
 | Hetzner           | - $5.31        |
+| Azure             | - $4.51        |
 | Twitter Blue      | - $10.68       |
-| Total             | + $5790.22     |
+| Total             | + $5785.71     |
 
 So I paid for Twitter Blue. That happened in January but let's put it in December for accounting purposes.
 In general, not a great month. A bit of a setback from my previous month, where **I broke the $8k mark**. And there is still a long way to go before breaking the $10k mark, which I will not do unless I either focus 100% of my time on freelancing, or find a way to generate revenue for my side projects.
