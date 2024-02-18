@@ -14,6 +14,6 @@ Since I have a bit of runway and I don't need new clients right now, I have deci
 
 So I am launching the first as a side project of Data Internships. Over the last 6 months I have collected a lot of info on the salaries paid for each internship. Not all companies share salary information but a few do, and it's quite a valuable source of info for interns and to evaluate the market. So I standardized all the data, cleaned up and collected average/min/max salaries for all countries and companies all in one page.
 
-I am [launching it today](datainternships-launch) on Product Hunt. Let me know what you think!
+I am [launching it today][datainternships-launch] on Product Hunt. Let me know what you think!
 
 [datainternships-launch]: https://www.producthunt.com/posts/data-internship-salaries
