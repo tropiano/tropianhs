@@ -34,13 +34,13 @@
 - name: Data Internships (active)
   gh_user: tropiano
   url: https://datainternships.co/
-  img: https://ph-files.imgix.net/04dfba5e-ff0d-4681-8d23-ea6403fa0cb5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=72&h=72&fit=crop&bg=0fff&dpr=1
+  img: https://www.datainternships.co/static/images/logo.png
   desc: A curated list of Data Science Internships
 
 - name: X Topics (active)
   gh_user: tropiano
   url: https://xtopics.co/
-  img: https://ph-files.imgix.net/8bb043f0-631e-488d-8d3d-bf979e359083.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop&dpr=1
+  img: https://xtopics.co/static/mainapp/icon_twitopt.png
   desc: Find your voice on X (Twitter)
 
 - name: SoccrBets (active)
