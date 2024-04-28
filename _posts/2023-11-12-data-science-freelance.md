@@ -58,8 +58,20 @@ Not all conversations will turn into a job opportunity. Sometimes they lead nowh
 
 In my experience, maybe 2-3 out of 10 conversations turn into a job offer. On Upwork, it's even worse, because of the high competition. Typically, a 10% hit rate (job offers/proposals) is a good ratio. But I never got discouraged and applied for job offers, even if I didn't know exactly how to do the job. Some of my most successful proposals came after I applied for a couple of jobs I had just a vague idea of how to do. I learned it while doing it. And the clients were very happy.
 
-I write often about my journey as a Freelance Data Scientist and about my other side projects on this blog and on [Twitter][twitter].
+## Update (28 April 2024)
+
+It's now more than one year since I got my first client as a freelancer. I have written about it in my [2023 reflections post][update].
+
+I often write about my journey as a Freelance Data Scientist and my other side projects on this blog and on [Twitter][twitter]. To talk about freelancing and exchange ideas connect with me on [LinkedIn][linkedin].
+
+I occasionally write about soccer betting and analytics. If you are curious check out my [betting model books on Gumroad][books].
+
+In the past months, many Data Scientists interested in a freelancing career read this blog and contacted me. I want to build a community where we can exchange tips to get started, get new clients, improve our offerings and skills and grow together. If you like the idea visit [datafreelance][datafreelance].
 
 [smallbets]: https://smallbets.co
 [daniel]: https://twitter.com/dvassallo
 [twitter]: https://twitter.com/tropianhs
+[update]: https://www.tropianhs.com/diary/2023/12/29/reflections
+[linkedin]: https://www.linkedin.com/in/tropianhs/
+[books]: https://tropianhs.gumroad.com
+[datafreelance]: https://datafreelance.co
