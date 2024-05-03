@@ -18,9 +18,9 @@ Google doesn't love me, after the last update in March **I have lost 80% of my t
 
 Subscribers growth last month was about 3.5%, and **I reached 210 subs in total**. Growing steadily, but I am trying to be more active on LinkedIn and posting twice a week instead of once. This has the potential to bring me even more traffic.
 
-## Stoic Quotes
+## Stoic Quotes
 
-**I shut it down** last month, letting the domain expire. It started as an SEO experiment, following the famous Danny Postma tweet about building a business without an audience. I probably was very naive and went for an idea with little potential for monetization. I cannot say that I didn't try it all. I tried to get traffic through SEO, Twitter, through Reddit, created merch and also published a book. In the end, I couldn't make even $1 from it. Probably it's a winner take it all market. It's always hard to know why something failed, there could be a million reasons.
+I **shut it down** last month, letting the domain expire. It started as an SEO experiment, following the famous Danny Postma tweet about building a business without an audience. I probably was very naive and went for an idea with little potential for monetization. I cannot say that I didn't try it all. I tried to get traffic through SEO, Twitter, through Reddit, created merch and also published a book. In the end, I couldn't make even $1 from it. Probably it's a winner take it all market. It's always hard to know why something failed, there could be a million reasons.
 
 One takeaway from this, **it's not ok to follow someone else path, no matter how famous he is**. Play your own strengths and learn from your own experiences. There are many good lessons in entrepreneurship, but there is no playbook.
 
