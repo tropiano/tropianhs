@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "September Earnings"
+title: "September 2023 Earnings"
 categories: diary
 tags: indie hacking
 ---

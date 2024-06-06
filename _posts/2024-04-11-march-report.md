@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "March Earnings"
+title: "March 2024 Earnings"
 categories: diary
 tags: indie hacking
 header-image: /images/mar-report.jpg

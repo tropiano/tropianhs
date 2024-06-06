@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "December Earnings"
+title: "December 2023 Earnings"
 categories: diary
 tags: indie hacking
 header-image: /images/december-report.jpg

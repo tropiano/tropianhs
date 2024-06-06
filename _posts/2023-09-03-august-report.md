@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "August Earnings"
+title: "August 2023 Earnings"
 categories: diary
 tags: indie hacking
 ---

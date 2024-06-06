@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "April Earnings"
+title: "April 2023 Earnings"
 categories: diary
 tags: indie hacking
 ---
