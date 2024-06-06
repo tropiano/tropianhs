@@ -35,43 +35,27 @@ Apart from blog posts, I am also doing Ads with Amazon, but this only works for 
 
 ## [Data Internships][datainternships]
 
-As I wrote above, I left some prpjects on the sideline. With Data Internships, this month also brought another challenge to the tech side. I think LinkedIn has partially banned my IP address, and I am not able to collect as many job as I want. For this reason I have stopped sending the newsletter. It's at least 3 weeks since I sent the last one. How to solve it? Probably I need to use a proxy, but I still need to research how that is done and where to find it. I have never done it before, so it will take me a while before I figure out what to do, and I have a feeling it will not be cheap.
+As I wrote above, I left some projects on the sideline. With Data Internships, this month also brought another **challenge to the tech side**. I think LinkedIn has partially **banned** my IP address, and I am not able to collect as many job as I want. For this reason I have stopped sending the newsletter. It's at least 3 weeks since I sent the last one. How to solve it? Probably I need to use a proxy, but I still need to research how that is done and where to find it. I have never done it before, so it will take me a while before I figure out what to do, and I have a feeling **it will not be cheap**.
 
-On the other hand, it looks like ConvertKit made it free for everyone to recommend other creators. So, I got a recommendation from a pretty big newsletter and my subscribers shot from something around 220 to almost 390 in less than 2 weeks. Maybe they are not very engaged, but they keep coming and I have a feeling I could get more of them if I start to look actively for more recommendations.
+On the other hand, it looks like ConvertKit made it free for everyone to recommend other creators. So, I got a **recommendation** from a pretty big newsletter and my subscribers shot from something around 220 to almost 390 in less than 2 weeks. Maybe they are not very engaged, but they keep coming, and I have a feeling I could get more of them if I start to look actively for more recommendations.
 
-Another option for me would be to pivot this. My audience is made of Junior Data Scientists and AI enthusiasts, so I could start to repurpose some of my content on freelancing, or maybe write about the technical things I do around data analysis during the week. I like newsletters like the one from [Pete][pete-twitter] or Marc Lou. I know I can read them in 5-10 minutes, they will give me food for thought and I almost always end up clicking on some of those links and reading further. It's a good model I would like to copy.
-
-Google doesn't love me, after the last update in March **I have lost 80% of my traffic from search**. I am not ranking anymore for queries like "data science internships" or "data analyst internships". I am not sure why, I cannot see anything wrong with my Search Console dashboard. Right now even Bing sends me more traffic than Google.
-
-Subscribers growth last month was about 3.5%, and **I reached 210 subs in total**. Growing steadily, but I am trying to be more active on LinkedIn and posting twice a week instead of once. This has the potential to bring me even more traffic.
-
-## Stoic Quotes
-
-I **shut it down** last month, letting the domain expire. It started as an SEO experiment, following the famous Danny Postma tweet about building a business without an audience. I probably was very naive and went for an idea with little potential for monetization. I cannot say that I didn't try it all. I tried to get traffic through SEO, Twitter, through Reddit, created merch and also published a book. In the end, I couldn't make even $1 from it. Probably it's a winner take it all market. It's always hard to know why something failed, there could be a million reasons.
-
-One takeaway from this, **it's not ok to follow someone else path, no matter how famous he is**. Play your own strengths and learn from your own experiences. There are many good lessons in entrepreneurship, but there is no playbook.
+Another option for me would be to **pivot**. My audience is made of Junior Data Scientists and AI enthusiasts, so I could start to repurpose some of my content on freelancing, or maybe write about the technical things I do around data analysis during the week. I like newsletters like the one from [Pete][pete-twitter] or Marc Lou. I know I can read them in 5-10 minutes, they will give me food for thought and I almost always end up clicking on some of those links and reading further. It's a good model I would like to copy.
 
 ## [X Topics][xtopics]
 
-This is the project I launched last month. Some people subscribed, but **I don't have paying users yet**. I have 15 early subscribers. Some of them have used the product only once. Most of them have just subscribed and never used the product. I have sent an email with updates on the tool (added the possibility to upload multiple files and working now on AI generated tweets) and 3 out of 15 people opened, which suggests me only a small fraction of the users even remembers about the tool.
+Neglected this month, but I really want to try to pivot it to something a bit different. In the past weeks I was chatting with a few people who were interested in **a chat based on your past tweets**. I have been researching a few models and also built a prototype that lets you ask questions, and it gives you the most similar tweets to the question you asked, plus a personalized reply based on those tweets. It looks interesting, but it's far from being ready. I still need to
 
-I am also chatting with a few people trying to understand better the market for this kind of product. I am **experimenting with a chat based on your past tweets** now, fine-tuning existing models on the tweet history of users. I am going to share the updates in public and see if it sparks some interest.
+- find a way to store vectorized tweets (probably I will use Postgres)
+- deploy the right models on HuggingFace
+- build the chat interface
 
-At this point, with 0 users, it's not useful to invest time in fixing bugs, the UX or adding features. It's better to play more with the tech, talk to potential users, and see if it can pivot into something interesting.
+I would like to do that in the next month. Maybe I will launch it as a separate product, with its own domain and copy.
 
-## [Soccrbets][soccrbets]
+## [Data Freelance][datafreelance]
 
-This is more an SEO experiment, a way to **bring more people to my books about Soccer Betting**. The idea is to write an article every month (or even more) on common questions around soccer betting and start to rank on Google.
+Nothing here, but at least 3 people have written me this week to understand when is this product ready. I want to build a **community of people who are freelancing in Data Science**, to share their wins, their strategies and their struggles. But it's not enough to create a Telegram group or a Discord server. You need to keep the community alive. And I don't have 100 people interested, I have less than 20.
 
-I have written an article on BTTS this month. Once I have another 2 or 3 articles, I will start to focus on backlinks.
-
-## New products
-
-When I was freelancing the main pain was to **find new clients**, so I am toying with an idea can build something that helps with that. I have been in touch with a few people with whom I worked in the past year and other people that are starting out as freelancers.
-
-My idea is to deliver them a few opportunities per month, from companies that are likely to hire agencies or freelancers. A bit like a lead generation agency, but specific for Data Science. From the conversation I had, it is something that could solve a problem, but **I didn't hear the screams of pain** from the people I talked to. Instead, I heard some excitement around the idea of a **community of people who are freelancing in Data Science**, to share their wins, their strategies and their struggles. Could this be the way forward? A paid community? I heard communities are extremely hard to build and to keep alive, but it could really be something that people want and could solve a pain point, for Data Science agency founders that feel a bit alone in their journey.
-
-For now, I have set up a landing page, focused on generating leads for the people who subscribe. It's called [datafreelance][datafreelance].
+The landing page is still there, but it doesn't bring any traffic.
 
 ## The cashflow
 
