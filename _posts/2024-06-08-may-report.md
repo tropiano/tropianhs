@@ -23,9 +23,23 @@ I think I have 20-25 hard-core readers, that really like what I write, trust me,
 
 I have published the book on Gumroad on June 3, and it will be out on Amazon on June 7. As of today, I have sold a bit fewer than 30 copies. What would I consider a success? Probably 100 copies across all platforms would be good. Given that it will not sell after the Euros, it would already have collected almost as many sales as my less successful book.
 
+I am spending the days up to the start of the tournament (and probably more) doing some marketing. My strategy is simple
+
+- Write a short blog post on [my soccrbets website][soccrbets] with the main results of the book and a link for people who want to know more.
+- Write a short version of the blog post and point to the blog post if they wanna know more.
+- Post the short version of the blog post on several subreddits and online groups.
+
+It's kind of a funnel that has worked well for me in the past, and it minimizes the risk of being banned on Reddit. So far, it's working on 2 out of the 3 subreddits I have posted on. I wish I could find more communities to advertise to, outside of Reddit. But it's been a challenge for me to find active soccer groups that allow long form post with links.
+
+Apart from blog posts, I am also doing Ads with Amazon, but this only works for the KDP version, not for the Gumroad one. I have hired [Levi][levi-twitter] to create a nice video for me. He did a great job, let's hope the ad attracts some traffic before the beginning of the tournament.
+
 ## [Data Internships][datainternships]
 
-I have made a few improvements to the website in the past weeks, I added a filter for positions and salary estimation data for the job listings. I also made a proper form, for companies to submit their internship. There is also an option to buy a Premium spot on the job board now. Nobody has bought yet, I need more traffic to be able to sell my first spot. With only **250 users per month**, it's not likely someone will want to advertise.
+As I wrote above, I left some prpjects on the sideline. With Data Internships, this month also brought another challenge to the tech side. I think LinkedIn has partially banned my IP address, and I am not able to collect as many job as I want. For this reason I have stopped sending the newsletter. It's at least 3 weeks since I sent the last one. How to solve it? Probably I need to use a proxy, but I still need to research how that is done and where to find it. I have never done it before, so it will take me a while before I figure out what to do, and I have a feeling it will not be cheap.
+
+On the other hand, it looks like ConvertKit made it free for everyone to recommend other creators. So, I got a recommendation from a pretty big newsletter and my subscribers shot from something around 220 to almost 390 in less than 2 weeks. Maybe they are not very engaged, but they keep coming and I have a feeling I could get more of them if I start to look actively for more recommendations.
+
+Another option for me would be to pivot this. My audience is made of Junior Data Scientists and AI enthusiasts, so I could start to repurpose some of my content on freelancing, or maybe write about the technical things I do around data analysis during the week. I like newsletters like the one from [Pete][pete-twitter] or Marc Lou. I know I can read them in 5-10 minutes, they will give me food for thought and I almost always end up clicking on some of those links and reading further. It's a good model I would like to copy.
 
 Google doesn't love me, after the last update in March **I have lost 80% of my traffic from search**. I am not ranking anymore for queries like "data science internships" or "data analyst internships". I am not sure why, I cannot see anything wrong with my Search Console dashboard. Right now even Bing sends me more traffic than Google.
 
@@ -102,3 +116,5 @@ This month I also travelled quite a lot. Visited Tallinn, and I had a great time
 [telegram-maria]: https://tghero.pro/telegram/
 [patrician-3]: https://store.steampowered.com/app/33570/Patrician_III/
 [dan]: https://danielesecondi.com/
+[pete-twitter]: https://x.com/petecodes
+[levi-twitter]: https://x.com/levikul09
