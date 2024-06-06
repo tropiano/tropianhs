@@ -14,14 +14,14 @@ Right now I have a few things going on in parallel, and I am focusing a day of t
 
 ## [Euro 2024 book][euro2024]
 
-I saw the opportunity to write about the upcoming Euro 2024 tournament and write another book in the soccer analytics series. Since the first two are my only source of income at the moment, I thought I would do more of this. Since it works, just do more of it as Hormozi often says. As I often do, I was browsing on Amazon and I noticed a few generic books about the Euros doing quite well already. The kind of books that come out with each major tournament. Some of them were already at the top in several categories, and must have made thousands of dollars every month.
+I saw the opportunity to write about the upcoming **Euro 2024** tournament and write another book in the soccer analytics series. Since the first two are my only source of income at the moment, I thought I would do more of this. Since it works, just do more of it as Hormozi often says. As I often do, I was browsing on Amazon and I noticed a few generic books about the Euros doing quite well already. The kind of books that come out with each major tournament. Some of them were already at the top in several categories, and must have made **thousands of dollars** every month.
 
-So, on May 18 I set up a pre-order page on Gumroad and on Amazon KDP. I wrote down an email with the basic outline of the book, just a list of topics I would be writing about. And I sent the email to all my readers. I have been collecting their emails via Gumroad in the past years and I have also collected all emails of the readers who bought my books on Amazon. I always place my contact email in my book and offer all my readers to send them the code in the book if they write me. Works pretty well to build a mailing list.
+So, on **May 18** I set up a pre-order page on Gumroad and on Amazon KDP. I wrote down an email with the basic outline of the book, just a list of topics I would be writing about. And I sent the email to all my readers. I have been collecting their emails via Gumroad in the past years and I have also collected all emails of the readers who bought my books on Amazon. I always place my contact email in my book and offer all my readers to send them the code in the book if they write me. Works pretty well to build a mailing list.
 
 I have then updated my readers on the progress of the book and published chapter by chapter, like in the old days. I think they liked it. Out of the 157 readers who received my email, I think 25 ordered my book before it was finished. It is actually only available on Gumroad for now, it will be available on Amazon from the 7th of June.
-I think I have 20-25 hard-core readers, that really like what I write, trust me, and would read almost anything from me. It's around 15% of all my readers probably, and it might be some kind of universal law. Imagine selling 1 Million copies of a book. Then, you can assume 15% of those readers are going to become your hard-core fans. It's 150000 people, who will buy virtually anything you write. Pretty big deal.
+I think I have **20-25 hard-core readers**, that really like what I write, trust me, and would read almost anything from me. It's around 15% of all my readers probably, and it might be some kind of universal law. Imagine selling 1 Million copies of a book. Then, you can assume 15% of those readers are going to become your hard-core fans. It's 150000 people, who will buy virtually anything you write. Pretty big deal.
 
-I have published the book on Gumroad on June 3, and it will be out on Amazon on June 7. As of today, I have sold a bit fewer than 30 copies. What would I consider a success? Probably 100 copies across all platforms would be good. Given that it will not sell after the Euros, it would already have collected almost as many sales as my less successful book.
+I have published the book on Gumroad on June 3, and it will be out on Amazon on **June 7**. As of today, I have sold a bit fewer than 30 copies. What would I consider a success? Probably 100 copies across all platforms would be good. Given that it will not sell after the Euros, it would already have collected almost as many sales as my less successful book.
 
 I am spending the days up to the start of the tournament (and probably more) doing some marketing. My strategy is simple
 
@@ -29,13 +29,13 @@ I am spending the days up to the start of the tournament (and probably more) doi
 - Write a short version of the blog post and point to the blog post if they wanna know more.
 - Post the short version of the blog post on several subreddits and online groups.
 
-It's kind of a funnel that has worked well for me in the past, and it minimizes the risk of being banned on Reddit. So far, it's working on 2 out of the 3 subreddits I have posted on. I wish I could find more communities to advertise to, outside of Reddit. But it's been a challenge for me to find active soccer groups that allow long form post with links.
+It's kind of a funnel that has worked well for me in the past, and it minimizes the risk of being **banned on Reddit**. So far, it's working on 2 out of the 3 subreddits I have posted on. I wish I could find more communities to advertise to, outside of Reddit. But it's been a challenge for me to find active soccer groups that allow long form post with links.
 
 Apart from blog posts, I am also doing Ads with Amazon, but this only works for the KDP version, not for the Gumroad one. I have hired [Levi][levi-twitter] to create a nice video for me. He did a great job, let's hope the ad attracts some traffic before the beginning of the tournament.
 
 ## [Data Internships][datainternships]
 
-As I wrote above, I left some projects on the sideline. With Data Internships, this month also brought another **challenge to the tech side**. I think LinkedIn has partially **banned** my IP address, and I am not able to collect as many job as I want. For this reason I have stopped sending the newsletter. It's at least 3 weeks since I sent the last one. How to solve it? Probably I need to use a proxy, but I still need to research how that is done and where to find it. I have never done it before, so it will take me a while before I figure out what to do, and I have a feeling **it will not be cheap**.
+As I wrote above, I left some projects on the sideline. With Data Internships, this month also brought another **challenge to the tech side**. I think LinkedIn has partially **banned** my IP address, and I am not able to collect as many job as I want. For this reason I have stopped sending the newsletter. It's at least 3 weeks since I sent the last one. How to solve it? I cannot use my profile, LinkedIn is pretty aggressive. I tried it once and I got myself logged out. So I suspect if I try again, I will lose my personal account. Probably I need to use a proxy, but I still need to research how that is done and where to find it. I have never done it before, so it will take me a while before I figure out what to do, and I have a feeling **it will not be cheap**.
 
 On the other hand, it looks like ConvertKit made it free for everyone to recommend other creators. So, I got a **recommendation** from a pretty big newsletter and my subscribers shot from something around 220 to almost 390 in less than 2 weeks. Maybe they are not very engaged, but they keep coming, and I have a feeling I could get more of them if I start to look actively for more recommendations.
 
@@ -43,7 +43,7 @@ Another option for me would be to **pivot**. My audience is made of Junior Data 
 
 ## [X Topics][xtopics]
 
-Neglected this month, but I really want to try to pivot it to something a bit different. In the past weeks I was chatting with a few people who were interested in **a chat based on your past tweets**. I have been researching a few models and also built a prototype that lets you ask questions, and it gives you the most similar tweets to the question you asked, plus a personalized reply based on those tweets. It looks interesting, but it's far from being ready. I still need to
+Neglected this month, I just made a bug fix. Which I think is a bug on the HuggingFace side. When you pause an endpoint with their API it somehow messes up the format of the endpoint creation date, SO, when you try to turn on the endpoint again, it gives an error. The only solution is to start it manually. Anyway, I fixed it it in the but I really want to try to pivot it to something a bit different. In the past weeks I was chatting with a few people who were interested in **a chat based on your past tweets**. I have been researching a few models and also built a prototype that lets you ask questions, and it gives you the most similar tweets to the question you asked, plus a personalized reply based on those tweets. It looks interesting, but it's far from being ready. I still need to
 
 - find a way to store vectorized tweets (probably I will use Postgres)
 - deploy the right models on HuggingFace
@@ -63,42 +63,30 @@ As always, let's take a close look at the revenue and expenses this month.
 
 | Item               | Income/Expense |
 | ------------------ | -------------- |
-| Amazon book sales  | + $173.32      |
-| Gumroad book sales | + $45.97       |
+| Amazon book sales  | + $104.70      |
+| Gumroad book sales | + $56.91       |
 | Appliku            | - $10.00       |
 | Hetzner            | - $5.31        |
 | Twitter blue       | - $10.68       |
-| HuggingFace        | - $0.32        |
+| HuggingFace        | - $1.66        |
 | Brev               | - $0.32        |
 | KW Everywhere      | - $21.96       |
 | Italian PEC email  | - $13.11       |
-| Ads                | - $65          |
-| Total              | + $133.20      |
+| Ads creative       | - $65          |
+| Total              | + $33.57       |
 
-Record income from my books on Amazon. I don't know exactly why, April has been my worst-performing month in the past years. I even stopped the ads in March because they didn't look that profitable. Could it be a long-term effect of the ads? People see the book, maybe they save it in their wish list and then buy it later? Let's see if the trend continues or if it's been a one-time thing.
+When I look at the income from my books in May compared with last year, I can only be optimistic about it. May has always been a slow month, but while I made $80 in May 2023, this year I made $160. I think there is a lot of margin t improve my book sales. How to do it? I'm not sure, but probably again, do more of what I have done so far. Write more online, share more, write more books even.
 
-I have made a little investment in a [Telegram course][telegram-maria] too. I consider it as a business expense, because it will give me the opportunity to explore another channel, with the goal to turn it into a revenue generating activity. It looks interesting and it caught my attention. I have seen it first on a tweet, followed the landing page, the copy looked convincing, and I bought after a few days. I almost never buy this kind of products, so I analyzed my behavior and those are the things that I noticed:
+## Life and friends
 
-- I saw the author message multiple times before finally buying, and visited the landing page a few times before convincing myself to finally pull out my card.
-- The author mentioned how much she makes from the channels she manages ($5k).
-- I liked that the author has a similar story to mine (Analyst to Entrepreneur).
-- The author spent time replying to my questions on X.
-- The discounted price sounds right (most courses are around $50-100).
-- She had testimonials. Even if the course is not ready, there was a good review about the author, that made me confident the purchase is worth the money I am paying.
-
-I think there is a lot to learn from the points above, and I will try to take inspiration from them to market my products.
-
-## Life
-
-This month I also travelled quite a lot. Visited Tallinn, and I had a great time. The city center reminded me of one of my favorite games, [Patrician 3][patrician-3]. And most importantly, I (quite randomly) met [Daniele][dan], who is an Italian Digital entrepreneur living abroad. Dan is one of these guys who are not very vocal on X. He does not have a huge following, does not make much noise. He builds good software, speaks to his customers and has a great healthy business, that gives him stability and the freedom to experiment with new ideas. It was great meeting with him in person, more of us should meet in person more often.
+It's always great to meet your Twitter friends in real life. I'm in Moscow now, so U had the chance to meet [Pavel][pavel-twitter] again. He has been working on a low-code project on [Derek Sivers' notes][dereksnotes]. Give it a look, it's super cool.
 
 [xtopics]: https://xtopics.co
 [soccrbets]: https://soccrbets.com
 [datainternships]: https://datainternships.co
 [datafreelance]: https://datafreelance.co
 [euro2024]: https://tropianhs.gumroad.com/l/euro2024
-[telegram-maria]: https://tghero.pro/telegram/
-[patrician-3]: https://store.steampowered.com/app/33570/Patrician_III/
-[dan]: https://danielesecondi.com/
 [pete-twitter]: https://x.com/petecodes
 [levi-twitter]: https://x.com/levikul09
+[pavel-twitter]: https://x.com/pavel_ivanovsky
+[dereksnotes]: https://www.dereksnotes.com/
