@@ -14,7 +14,14 @@ Right now I have a few things going on in parallel, and I am focusing a day of t
 
 ## [Euro 2024 book][euro2024]
 
-I saw the opportunity to write about the upcoming Euro 2024 tournament and write another book in the soccer analytics series. Since the first two are my only source of income at the moment, I thought I would do more of this. Since it works, just do more of it as Hormozi often says. Also, I was browsing on Amazon and I notices a few generic books about the Euros doing quite well already. Some of them were already at the top in several categories, must have made thousands every month
+I saw the opportunity to write about the upcoming Euro 2024 tournament and write another book in the soccer analytics series. Since the first two are my only source of income at the moment, I thought I would do more of this. Since it works, just do more of it as Hormozi often says. As I often do, I was browsing on Amazon and I noticed a few generic books about the Euros doing quite well already. The kind of books that come out with each major tournament. Some of them were already at the top in several categories, and must have made thousands of dollars every month.
+
+So, on May 18 I set up a pre-order page on Gumroad and on Amazon KDP. I wrote down an email with the basic outline of the book, just a list of topics I would be writing about. And I sent the email to all my readers. I have been collecting their emails via Gumroad in the past years and I have also collected all emails of the readers who bought my books on Amazon. I always place my contact email in my book and offer all my readers to send them the code in the book if they write me. Works pretty well to build a mailing list.
+
+I have then updated my readers on the progress of the book and published chapter by chapter, like in the old days. I think they liked it. Out of the 157 readers who received my email, I think 25 ordered my book before it was finished. It is actually only available on Gumroad for now, it will be available on Amazon from the 7th of June.
+I think I have 20-25 hard-core readers, that really like what I write, trust me, and would read almost anything from me. It's around 15% of all my readers probably, and it might be some kind of universal law. Imagine selling 1 Million copies of a book. Then, you can assume 15% of those readers are going to become your hard-core fans. It's 150000 people, who will buy virtually anything you write. Pretty big deal.
+
+I have published the book on Gumroad on June 3, and it will be out on Amazon on June 7. As of today, I have sold a bit fewer than 30 copies. What would I consider a success? Probably 100 copies across all platforms would be good. Given that it will not sell after the Euros, it would already have collected almost as many sales as my less successful book.
 
 ## [Data Internships][datainternships]
 
