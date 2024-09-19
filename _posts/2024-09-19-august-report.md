@@ -54,9 +54,9 @@ I am definitely **not happy** about the situation though. I have stopped freelan
 
 ## Real life
 
-My baby girl was born 1 week ago, and I feel more focused and energized than ever. I think the time pressure and responsibility make me sharper. When I look back, it's been like this all my life. I do my best work and take the best life decision when I need to make money for me and my family.
+My **baby girl was born 1 week ago**, and I feel more focused and energized than ever. I think the time pressure and responsibility make me sharper. When I look back, it's been like this all my life. I do my best work and take the best life decision when I need to make money for me and my family.
 
-I hope it will work this time too.
+I **hope** it will work this time too.
 
 [xtopics-launch]: https://www.producthunt.com/products/x-topics
 [launch-video]: https://youtu.be/8qzyp_T2hmw
