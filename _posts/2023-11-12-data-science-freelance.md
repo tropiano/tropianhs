@@ -62,11 +62,7 @@ In my experience, maybe 2-3 out of 10 conversations turn into a job offer. On Up
 
 It's now more than one year since I got my first client as a freelancer. I have written about it in my [2023 reflections post][update].
 
-I often write about my journey as a Freelance Data Scientist and my other side projects on this blog and on [Twitter][twitter]. To talk about freelancing and exchange ideas connect with me on [LinkedIn][linkedin].
-
-I occasionally write about soccer betting and analytics. If you are curious check out my [betting model books on Gumroad][books].
-
-In the past months, many Data Scientists interested in a freelancing career read this blog and contacted me. I want to build a community where we can exchange tips to get started, get new clients, improve our offerings and skills and grow together. If you like the idea visit [datafreelance][datafreelance].
+If you want more tips about Data freelancing and follow my journey, I write about it every week in my [Data Freelancing][datafreelance] Telegram channel.
 
 [smallbets]: https://smallbets.co
 [daniel]: https://twitter.com/dvassallo
@@ -74,4 +70,4 @@ In the past months, many Data Scientists interested in a freelancing career read
 [update]: https://www.tropianhs.com/diary/2023/12/29/reflections
 [linkedin]: https://www.linkedin.com/in/tropianhs/
 [books]: https://tropianhs.gumroad.com
-[datafreelance]: https://datafreelance.co
+[datafreelance]: https://t.me/datafreelance
