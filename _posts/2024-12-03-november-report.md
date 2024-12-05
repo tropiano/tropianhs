@@ -6,6 +6,8 @@ tags: indie hacking
 header-image: /images/nov-report.jpg
 ---
 
+_The video of this post is [here][yt-video]_
+
 I got into the habit of starting every month with a list of activities I want to get done by the end of the month. For November, I had **two main goals**
 
 - Get **3 or more paying users** for Xtopics.
@@ -74,3 +76,4 @@ Last year, I made $8k+ in November, it was one of my most successful months as a
 [tg-datafreelance]: https://t.me/datafreelance
 [datafreelance-blog]: https://www.tropianhs.com/diary/2023/11/12/data-science-freelance
 [offerbutton]: https://offerbutton.com/
+[yt-video]: https://youtu.be/pEM8ouZRCfw
