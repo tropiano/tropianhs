@@ -6,6 +6,8 @@ tags: indie hacking
 header-image: /images/dec-report.jpeg
 ---
 
+_The video of this post is [here][yt-video]_
+
 I almost didn't write this post, but then read last year one and **it was so good** that I found the motivation. I want to read this blog post again next year and see how I grew. They say _never compare yourself to others, only to your younger self_.
 
 ## [Data Freelance][tg-datafreelance]
@@ -66,3 +68,4 @@ What will happen in 2025? I am not sure. I will have to **go back freelancing**,
 [soccrbets-video]: https://youtu.be/4US_E-1cL0w
 [tg-datafreelance]: https://t.me/datafreelance
 [datafreelance-blog]: https://www.tropianhs.com/diary/2023/11/12/data-science-freelance
+[yt-video]: https://youtu.be/WXE_ewe6zqM
