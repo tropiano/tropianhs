@@ -1,0 +1,10 @@
+{
+  "grammarly.files.include": ["**.md"],
+  "grammarly.selectors": [
+    {
+      "language": "markdown",
+      "scheme": "file"
+    }
+  ],
+  "gitdoc.enabled": true
+}
