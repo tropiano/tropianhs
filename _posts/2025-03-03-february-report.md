@@ -38,16 +38,16 @@ I have got now **30 subscribers on my YT channel** and the subscribers on the TG
 
 Time to look at the income for this month.
 
-| Item                      | Income/Expense |
-| ------------------------- | -------------- |
-| Amazon book sales         | + $119.97      |
-| X Rev share               | + $10.57       |
-| Domain renewals | - $24.69       |
-| Appliku                   | - $10.00       |
-| Hetzner                   | - $5.31        |
-| X Premium                 | - $10.68       |
-| HuggingFace               | - $0.86        |
-| Total                     | + $79.00       |
+| Item              | Income/Expense |
+| ----------------- | -------------- |
+| Amazon book sales | + $119.97      |
+| X Rev share       | + $10.57       |
+| Domain renewals   | - $10.44       |
+| Appliku           | - $10.00       |
+| Hetzner           | - $5.31        |
+| X Premium         | - $10.68       |
+| HuggingFace       | - $0.86        |
+| Total             | + $79.00       |
 
 Overall, **book sales decreased a lot**. Which is expected in January. If I compare it with last year, I am just $5 below. This month I also managed to keep the HuggingFace costs down at the expected levels. And I got paid for my **shitposting on X**, which is always nice because I love to do it. I also bought TG Premium for one year. A bit of an experiment, but I hope it will help me grow my channels.
 
