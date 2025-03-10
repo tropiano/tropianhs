@@ -14,9 +14,9 @@ I really wanted to write a new article this month, but I didn't find the time. I
 
 ## [Data Internships][datainternships]
 
-No newsletter sent this month. But I improved the website a bit, now it has a slightly better look and the DB is more stable. There are still some hiccups 
+No newsletter sent this month. But I improved the website a bit, now it has a slightly better look and the DB is more stable. There are still some hiccups in the job fetching mechanism. My plan is to solve them next, and then launch again on ProductHunt, trying to sell the project.
 
-But my subscribers' growth has stagnated. I am now around 2050 subscribers, almost 20 less than last month. I am still not sure **how to monetize** this, and I haven't made any effort to list and sell it on any platform. I have also reached the point where I should automate the process a bit more, because I am spending too much time reviewing the job offers. Once I have done that, I will try to sell newsletter ads, or even try to become an affiliate for some Data Science related course.
+I added less than 10 subscribers in February, with the total slightly above 2060 now.
 
 ## [X Topics][xtopics]
 
