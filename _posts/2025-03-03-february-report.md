@@ -41,8 +41,7 @@ Time to look at the income for this month.
 
 | Item              | Income/Expense |
 | ----------------- | -------------- |
-| Amazon book sales | + $119.97      |
-| X Rev share       | + $10.57       |
+| Amazon book sales | + $144.59      |
 | Domain renewals   | - $10.44       |
 | Appliku           | - $10.00       |
 | Hetzner           | - $5.31        |
