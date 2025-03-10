@@ -10,7 +10,7 @@ In February I have defintely shifted back to building on-the side and spending m
 
 ## [Data Freelance][tg-datafreelance]
 
-I really wanted to write a new article this month, but I didn't find the time. I hope to write 2 articles in March instead. Looking at the stats, I have got **19 members, which is 6 more** than last month.
+I really wanted to write a new article this month, but I didn't find the time. I hope to write 2 articles in March instead. People keep subscribing, I have now **27 members, which is 8 more** than last month.
 
 ## [Data Internships][datainternships]
 
