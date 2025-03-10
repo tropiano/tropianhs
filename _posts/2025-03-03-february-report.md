@@ -46,10 +46,10 @@ Time to look at the income for this month.
 | Appliku           | - $10.00       |
 | Hetzner           | - $5.31        |
 | X Premium         | - $10.68       |
-| HuggingFace       | - $0.86        |
-| Total             | + $79.00       |
+| HuggingFace       | - $0.77        |
+| Total             | + $107.39      |
 
-Overall, **book sales decreased a lot**. Which is expected in January. If I compare it with last year, I am just $5 below. This month I also managed to keep the HuggingFace costs down at the expected levels. And I got paid for my **shitposting on X**, which is always nice because I love to do it. I also bought TG Premium for one year. A bit of an experiment, but I hope it will help me grow my channels.
+Book sales are in line with 2024 revenue, which is a bad news because Overall, **book sales decreased a lot**. Which is expected in January. If I compare it with last year, I am just $5 below. This month I also managed to keep the HuggingFace costs down at the expected levels. And I got paid for my **shitposting on X**, which is always nice because I love to do it. I also bought TG Premium for one year. A bit of an experiment, but I hope it will help me grow my channels.
 
 I am now **below $100 in revenue**, which is worrying, and the main reason why I started to look for freelancing gigs. I will be working with a friend who owns an Italian agency in February, and that should give me some room to breathe for a few months. Let's see how it goes.
 
