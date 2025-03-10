@@ -32,7 +32,8 @@ I wonder why, after many months of constantly pushing new articles, with high ra
 
 I have got now **33 subscribers on my YT channel** and the subscribers on the **TG channel grew to 47**. I will make a small celebration when I get to 50.
 
-## [Freelancing][personal]
+## [Freelancing][personal]
+
 I have started to collaborate with a friend this month. Hopefully it will be a fruitful and long collaboration, it's going very well so far. I've also taken an interesting horse betting gig that I found on Upwork, that was good to keep my profile alive and a new 5-star review.
 
 ## The cashflow
