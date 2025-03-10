@@ -27,10 +27,13 @@ I have got to contact these potential customers and understand what is holding t
 
 ## [Soccrbets][soccrbets]
 
-Lots of work on it. I keep improving automation and publishing articles on the blog and on Telegram. I renewed the domain for another year and now I have got to commit to it.
-I wonder why, after many months of constrantly pushing new articles, with high ranking keywords, my traffic from SEO is still very low. My I kept improving automations and publishing **new articles**. I also tried to automate the Reddit posting, so now I am now able to fire a script that auto-posts the latest suggested bets when needed. I also published a 2-parts analytics article, and a couple of new videos on my personal YT channel. January sales are not as good as December, but I think these videos are still contributing to **bring more visitors** to my books on Gumroad and Amazon. I should see the effect on sales in the next weeks.
+Lots of work on it. I keep improving automation and publishing articles on the blog and on Telegram. I renewed the domain for another year, and now I have got to commit to it.
+I wonder why, after many months of constantly pushing new articles, with high ranking keywords, my traffic from SEO is still very low. Less than 500 impressions and only 3 clicks in the last month. I published one new video and one new short on YT. Still low numbers, but I'm getting better and faster at making videos at least.
 
-I have got now **30 subscribers on my YT channel** and the subscribers on the TG channel grew up to 31.
+I have got now **33 subscribers on my YT channel** and the subscribers on the TG channel grew up to 47. I will make a small celebration when I get to 50.
+
+## [Freelancing][personal]
+I have started to collaborate with a friend this month. Hopefully it will be a fruitful and long collaboration, it's going very well so far. I've also taken an interesting horse betting gig that I found on Upwork, that was good to keep my profile alive and a new 5-star review.
 
 ## The cashflow
 
@@ -53,6 +56,7 @@ I am now **below $100 in revenue**, which is worrying, and the main reason why I
 
 [soccrbets]: https://soccrbets.com
 [xtopics]: https://xtopics.co
+[personal]: https://x.com/tropianhs
 [datainternships]: https://datainternships.co
 [telegram-soccrbets]: https://t.me/soccrbets
 [soccrbets-video]: https://youtu.be/4US_E-1cL0w
