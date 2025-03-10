@@ -20,13 +20,14 @@ I added less than 10 subscribers in February, with the total slightly above 2060
 
 ## [X Topics][xtopics]
 
-I have been slacking on this. No new feature, and very little, maybe even **zero promotion** on socials.
+I have done a few improvements on the website, mostly usability and UX stuff, no new fancy feature.
+My main problem is that people subscribe, but they don't use the product. They don't even connect their Threads account, which doesn't make any sense.
 
-I have already started working on it again in February. The goal is to convert a few registered users into customers. There are too many of them who register and don't even connect their Threads account.
+I have got to contact these potential customers and understand what is holding them back.
 
 ## [Soccrbets][soccrbets]
 
-I kept improving automations and publishing **new articles**. I also tried to automate the Reddit posting, so now I am now able to fire a script that auto-posts the latest suggested bets when needed. I also published a 2-parts analytics article, and a couple of new videos on my personal YT channel. January sales are not as good as December, but I think these videos are still contributing to **bring more visitors** to my books on Gumroad and Amazon. I should see the effect on sales in the next weeks.
+Lots of work on it, I kept improving automations and publishing **new articles**. I also tried to automate the Reddit posting, so now I am now able to fire a script that auto-posts the latest suggested bets when needed. I also published a 2-parts analytics article, and a couple of new videos on my personal YT channel. January sales are not as good as December, but I think these videos are still contributing to **bring more visitors** to my books on Gumroad and Amazon. I should see the effect on sales in the next weeks.
 
 I have got now **30 subscribers on my YT channel** and the subscribers on the TG channel grew up to 31.
 
