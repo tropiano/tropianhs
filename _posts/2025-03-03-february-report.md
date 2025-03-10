@@ -27,7 +27,7 @@ I have got to contact these potential customers and understand what is holding t
 
 ## [Soccrbets][soccrbets]
 
-Lots of work on it, I kept improving automations and publishing **new articles**. I also tried to automate the Reddit posting, so now I am now able to fire a script that auto-posts the latest suggested bets when needed. I also published a 2-parts analytics article, and a couple of new videos on my personal YT channel. January sales are not as good as December, but I think these videos are still contributing to **bring more visitors** to my books on Gumroad and Amazon. I should see the effect on sales in the next weeks.
+Lots of work on it. I keep improving automation and publishing articles on the blog and on Telegram. I renewed the domain and now I am  My  I kept improving automations and publishing **new articles**. I also tried to automate the Reddit posting, so now I am now able to fire a script that auto-posts the latest suggested bets when needed. I also published a 2-parts analytics article, and a couple of new videos on my personal YT channel. January sales are not as good as December, but I think these videos are still contributing to **bring more visitors** to my books on Gumroad and Amazon. I should see the effect on sales in the next weeks.
 
 I have got now **30 subscribers on my YT channel** and the subscribers on the TG channel grew up to 31.
 
