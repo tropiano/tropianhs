@@ -1,20 +1,16 @@
 ---
 layout: post
-title: "January 2025 Earnings"
+title: "February 2025 Earnings"
 categories: diary
 tags: indie hacking
-header-image: /images/jan-report.jpeg
+header-image: /images/feb-report.jpeg
 ---
 
-I'm starting the year shifting focus again. If 2024 was the year to go all-in bootstrapping a product, 2025 is going to be the year when I am stabilizing my finances and take a **less risky approach** to entrepreneurship.
-
-This is why I have been spending a lot of time this month applying to part-time positions, networking and sending CVs. The idea is to have one or more part-time gigs that will help me **reduce the stress on my finances**, increase my runway and make my wife less worried. Now that we have a baby to take care of, I can't afford to take too many risks.
+In February I have defintely shifted back to building on-the side and spending most of my free time freelancing. This will bring some financial stability and, as things start to get a bit easier with the bay, I think I can still dedicate some of my time growing my following and building features and new products.
 
 ## [Data Freelance][tg-datafreelance]
 
-I have spent some time this month writing and publishing a **new article on the channel**. The inspiration for these articles often comes from talking to other Data Scientists that want to start freelancing. They write me in private (usually on Reddit) and I just answer their questions. These conversations turn into an article like [the first one that went viral][freelance-article] more than one year ago, and still brings hundreds of people to this website every month. A guy contacted me on X, I replied to his questions and turned that chat into an article.
-
-I already have something in mind to write this month, and I think I will have more and more to talk about once I start freelancing again. Looking at the stats, I have got **19 members, which is 6 more** than last month.
+I really wanted to write a new article this month, but I didn't find the time. I hope to write 2 articles in March instead. Looking at the stats, I have got **19 members, which is 6 more** than last month.
 
 ## [Data Internships][datainternships]
 
