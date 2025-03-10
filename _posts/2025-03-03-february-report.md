@@ -14,7 +14,7 @@ I really wanted to write a new article this month, but I didn't find the time. I
 
 ## [Data Internships][datainternships]
 
-Since Google has decided to **gift me some more traffic** in their last update in December, I have started to work a bit more on this. I sent 2 newsletters in January, and plan to send another couple in February.
+No newsletter sent this month. But I improved the website a bit, now it has a slightly better look and the DB is more stable. There are still some hiccups 
 
 But my subscribers' growth has stagnated. I am now around 2050 subscribers, almost 20 less than last month. I am still not sure **how to monetize** this, and I haven't made any effort to list and sell it on any platform. I have also reached the point where I should automate the process a bit more, because I am spending too much time reviewing the job offers. Once I have done that, I will try to sell newsletter ads, or even try to become an affiliate for some Data Science related course.
 
