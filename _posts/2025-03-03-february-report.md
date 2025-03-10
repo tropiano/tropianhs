@@ -6,7 +6,7 @@ tags: indie hacking
 header-image: /images/feb-report.jpg
 ---
 
-In February I have defintely shifted back to building on-the side and spending most of my free time freelancing. This will bring some financial stability and, as things start to get a bit easier with the bay, I think I can still dedicate some of my time growing my following and building features and new products.
+In February, I have definitely shifted back to building on-the side and spending **most of my time freelancing**. This will bring some financial stability and, as things start to get a bit easier with the baby, I think I can still dedicate some of my time growing my following and building features and new products.
 
 ## [Data Freelance][tg-datafreelance]
 
