@@ -3,7 +3,7 @@ layout: post
 title: "February 2025 Earnings"
 categories: diary
 tags: indie hacking
-header-image: /images/feb-report.jpeg
+header-image: /images/feb-report.jpg
 ---
 
 In February I have defintely shifted back to building on-the side and spending most of my free time freelancing. This will bring some financial stability and, as things start to get a bit easier with the bay, I think I can still dedicate some of my time growing my following and building features and new products.
@@ -49,9 +49,7 @@ Time to look at the income for this month.
 | HuggingFace       | - $0.77        |
 | Total             | + $107.39      |
 
-Book sales are in line with 2024 revenue, which is a bad news because Overall, **book sales decreased a lot**. Which is expected in January. If I compare it with last year, I am just $5 below. This month I also managed to keep the HuggingFace costs down at the expected levels. And I got paid for my **shitposting on X**, which is always nice because I love to do it. I also bought TG Premium for one year. A bit of an experiment, but I hope it will help me grow my channels.
-
-I am now **below $100 in revenue**, which is worrying, and the main reason why I started to look for freelancing gigs. I will be working with a friend who owns an Italian agency in February, and that should give me some room to breathe for a few months. Let's see how it goes.
+Book sales are in line with 2024 revenue, which is a bad news because in the last months they have been increasing on average. Nothing new on the expenses side, and I am asking myself if I really should spend more now that I am making some money with freelancing. I could maybe spend on advertising to try to grow some of my side projects.
 
 [soccrbets]: https://soccrbets.com
 [xtopics]: https://xtopics.co
@@ -60,6 +58,4 @@ I am now **below $100 in revenue**, which is worrying, and the main reason why I
 [telegram-soccrbets]: https://t.me/soccrbets
 [soccrbets-video]: https://youtu.be/4US_E-1cL0w
 [tg-datafreelance]: https://t.me/datafreelance
-[datafreelance-blog]: https://www.tropianhs.com/diary/2023/11/12/data-science-freelance
 [yt-video]: https://youtu.be/WXE_ewe6zqM
-[freelance-article]: https://www.tropianhs.com/diary/2023/11/12/data-science-freelance
