@@ -32,13 +32,15 @@ No time to work on this. I only renewed the domain for another year. It's very h
 
 ## [Soccrbets][soccrbets]
 
-Usual work, with weekly posting on Reddit and on the TG channel. Unfortunately the bets are not going very well, which is really the only thing taht matters to get new subscribers.
+Usual work, with weekly posting on Reddit and on the TG channel. Unfortunately the bets are not going very well, which is really the only thing that matters to get new subscribers.
 
-I have got now **33 subscribers on my YT channel** and the subscribers on the **TG channel grew to 60, 13 more than last month**. I will make a small celebration when I get to 50.
+I have got now **38 subscribers on my YT channel, 5 more than last week** and the subscribers on the **TG channel grew to 60, 13 more than last month**. I hope to get to 100 before the end of the football season.
 
 ## [Freelancing][personal]
 
-I have started to collaborate with a friend this month. Hopefully it will be a fruitful and long collaboration, it's going very well so far. I've also taken an interesting horse betting gig that I found on Upwork, that was good to keep my profile alive and a new 5-star review.
+Most of the time went on freelancing this month. I hope it's enough to pay the bills. After taxes I am afraid I am still under. 
+
+I paid the Italian taxes for 2023 this month. Roughly 10k taxes for 
 
 ## The cashflow
 
