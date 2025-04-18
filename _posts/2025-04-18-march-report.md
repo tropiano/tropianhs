@@ -38,9 +38,9 @@ I have got now **38 subscribers on my YT channel, 5 more than last week** and th
 
 ## [Freelancing][personal]
 
-Most of the time went on freelancing this month. I hope it's enough to pay the bills. After taxes I am afraid I am still under. 
+Most of the time went on freelancing this month. I hope it's enough to pay the bills. After taxes I am afraid I am still under.
 
-I paid the Italian taxes for 2023 this month. Roughly 10k taxes for 
+I paid the Italian taxes for 2023 this month. Roughly 10k taxes for 22k earnings. What the fuck.
 
 ## The cashflow
 
