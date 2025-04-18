@@ -18,11 +18,11 @@ Anyway, let's just fill the numbers and go back to try to work. Right now I am t
 
 ## [Data Freelance][tg-datafreelance]
 
-I really wanted to write a new article this month, but I didn't find the time. I hope to write 2 articles in March instead. People keep subscribing, I have now **27 members, which is 8 more** than last month.
+I wrote two new articles in March. I think those are good and helpful, but nobody is subscribing to the channel. I have now **39 members, which is 12 more** than last month.
 
 ## [Data Internships][datainternships]
 
-No newsletter sent this month. But I improved the website a bit, now it has a slightly better look and the DB is more stable. There are still some hiccups in the job fetching mechanism. My plan is to solve them next, and then launch again on ProductHunt, trying to sell the project.
+I have sent 1 newsletter this month. Even here, more unsubscribes than subscribers and still nobody that wants to pay for a spot in the newsletter or the site. 
 
 I added less than **10 subscribers in February, with the total slightly above 2060 now**.
 
