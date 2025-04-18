@@ -57,7 +57,7 @@ Time to look at the income for this month.
 | HuggingFace       | - $0.77        |
 | Total             | + $105.01      |
 
-Book sales are **sales are in line with 2024**, which is a bad news because in the last months they have been increasing on average. Nothing new on the expenses side, and I am asking myself if I really should spend more now that I am making some money with freelancing. I could **maybe spend on advertising** to try to grow some of my side projects.
+Book sales are really going down. I am looking at April data so far and they look even worse. It might be that some competitor books entered the space or simply the audience is not interested anymore. I don't think this is temporary. It might be the beginning of  and **sales are in line with 2024**, which is a bad news because in the last months they have been increasing on average. Nothing new on the expenses side, and I am asking myself if I really should spend more now that I am making some money with freelancing. I could **maybe spend on advertising** to try to grow some of my side projects.
 
 [soccrbets]: https://soccrbets.com
 [xtopics]: https://xtopics.co
