@@ -48,12 +48,12 @@ Time to look at the income for this month.
 
 | Item              | Income/Expense |
 | ----------------- | -------------- |
-| Amazon book sales | + $144.59      |
-| Domain renewals   | - $10.44       |
+| Amazon book sales | + $      |
+| Domain renewals   | - $36.44       |
 | Appliku           | - $10.00       |
 | Hetzner           | - $5.31        |
 | X Premium         | - $10.68       |
-| DeepSeek          | - $5.00        |
+| DeepSeek          | - $        |
 | HuggingFace       | - $0.77        |
 | Total             | + $105.01      |
 
