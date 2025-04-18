@@ -53,6 +53,7 @@ Time to look at the income for this month.
 | Appliku           | - $10.00       |
 | Hetzner           | - $5.31        |
 | X Premium         | - $10.68       |
+| DeepSeek          | - $5.00        |
 | HuggingFace       | - $0.77        |
 | Total             | + $107.39      |
 
