@@ -28,17 +28,13 @@ I lost **2 subscribers in March, total is 2054 now**.
 
 ## [X Topics][xtopics]
 
-No time to work on this. Maybe I should rework a bit the landing page. I have worked a bit ondone a few improvements on the website, mostly usability and UX stuff, no new fancy feature.
-My main problem is that people subscribe, but they don't use the product. They don't even connect their Threads account, which doesn't make any sense.
-
-I have got to **contact these potential customers** and understand what is holding them back.
+No time to work on this. I only renewed the domain for another year. It's very hard to promote this project. Even when I go viral on Threads nobody visits the website, which is sad.
 
 ## [Soccrbets][soccrbets]
 
-Lots of work on it. I keep improving automation and publishing articles on the blog and on Telegram. I renewed the domain for another year, and now I have got to commit to it.
-I wonder why, after many months of constantly pushing new articles, with high ranking keywords, my traffic from SEO is still very low. Less than 500 impressions and only 3 clicks in the last month. I published one new video and one new short on YT. Still low numbers, but I'm getting better and faster at making videos at least.
+Usual work, with weekly posting on Reddit and on the TG channel. Unfortunately the bets are not going very well, which is really the only thing taht matters to get new subscribers.
 
-I have got now **33 subscribers on my YT channel** and the subscribers on the **TG channel grew to 47**. I will make a small celebration when I get to 50.
+I have got now **33 subscribers on my YT channel** and the subscribers on the **TG channel grew to 60, 13 more than last month**. I will make a small celebration when I get to 50.
 
 ## [Freelancing][personal]
 
