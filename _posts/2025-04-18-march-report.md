@@ -48,16 +48,19 @@ Time to look at the income for this month.
 
 | Item              | Income/Expense |
 | ----------------- | -------------- |
-| Amazon book sales | + $144.59      |
+| Amazon book sales | + $105.01      |
 | Domain renewals   | - $24.00       |
 | Appliku           | - $10.00       |
 | Hetzner           | - $5.31        |
 | X Premium         | - $10.68       |
+| X Rev Sharing     | + $10.10       |
 | DeepSeek          | - $5.00        |
 | HuggingFace       | - $1.57        |
 | Total             | + $105.01      |
 
-Book sales are really going down. I am looking at April data so far, and they look even worse. It might be that some competitor books entered the space or simply the audience is not interested anymore. At this point I don't think this is temporary
+Book sales are really going down. I am looking at April data so far, and they look even worse. It might be that some competitor books entered the space or simply the audience is not interested anymore. At this point I don't think this is temporary.
+
+X paid itself again this month. I wish those views would turn into customer, but I imagine I am not targeting the right group of people, plus I don't have something compelling to sell.
 
 [soccrbets]: https://soccrbets.com
 [xtopics]: https://xtopics.co
