@@ -22,13 +22,13 @@ I wrote two new articles in March. I think those are good and helpful, but nobod
 
 ## [Data Internships][datainternships]
 
-I have sent 1 newsletter this month. Even here, more unsubscribes than subscribers and still nobody that wants to pay for a spot in the newsletter or the site. 
+I have sent 1 newsletter this month. Even here, more unsubscribes than subscribers and still nobody that wants to pay for a spot in the newsletter or the site.
 
-I added less than **10 subscribers in February, with the total slightly above 2060 now**.
+I lost **2 subscribers in March, total is 2054 now**.
 
 ## [X Topics][xtopics]
 
-I have done a few improvements on the website, mostly usability and UX stuff, no new fancy feature.
+No time to work on this. Maybe I should rework a bit the landing page. I have worked a bit ondone a few improvements on the website, mostly usability and UX stuff, no new fancy feature.
 My main problem is that people subscribe, but they don't use the product. They don't even connect their Threads account, which doesn't make any sense.
 
 I have got to **contact these potential customers** and understand what is holding them back.
