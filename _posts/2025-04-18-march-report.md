@@ -62,9 +62,11 @@ Book sales are really going down. I am looking at April data so far, and they lo
 
 X paid itself again this month. I wish those views would turn into customer, but I imagine I am not targeting the right group of people, plus I don't have something compelling to sell.
 
-I am experimenting with DeepSeek and it might as well replace the HF instance that I spin up for the Xtopics analytics. It might be less expensive and could allow me to simplify the infrastructure.
+I am experimenting with DeepSeek and it might as well replace the HF instance that I spin up for the Xtopics analytics. It seems to be a bit less expensive and could allow me to simplify the infrastructure.
 
+As I said last month, it doesn't make sense to keep a positive balance here. It might be better to reinvest everything that I earn with my side projects into the projects themselves. For example, I could run ads or purchase services that could make me market my existing projects better. If you know anything that could help me, I would be happy to look into it.
 
+Thanks! And see you next month for the April report!
 
 [soccrbets]: https://soccrbets.com
 [xtopics]: https://xtopics.co
