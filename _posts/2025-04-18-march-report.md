@@ -56,11 +56,15 @@ Time to look at the income for this month.
 | X Rev Sharing     | + $10.10       |
 | DeepSeek          | - $5.00        |
 | HuggingFace       | - $1.57        |
-| Total             | + $105.01      |
+| Total             | + $58.55       |
 
 Book sales are really going down. I am looking at April data so far, and they look even worse. It might be that some competitor books entered the space or simply the audience is not interested anymore. At this point I don't think this is temporary.
 
 X paid itself again this month. I wish those views would turn into customer, but I imagine I am not targeting the right group of people, plus I don't have something compelling to sell.
+
+I am experimenting with DeepSeek and it might as well replace the HF instance that I spin up for the Xtopics analytics. It might be less expensive and could allow me to simplify the infrastructure.
+
+
 
 [soccrbets]: https://soccrbets.com
 [xtopics]: https://xtopics.co
