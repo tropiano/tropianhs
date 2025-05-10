@@ -41,13 +41,13 @@ Time to look at the income for this month (without freelancing).
 
 | Item              | Income/Expense |
 | ----------------- | -------------- |
-| Amazon book sales | + $            |
+| Amazon book sales | + $40.77       |
 | Domain renewals   | - $36.44       |
 | Appliku           | - $10.00       |
 | Hetzner           | - $5.31        |
 | X Premium         | - $10.68       |
 | DeepSeek          | - $            |
-| HuggingFace       | - $       |
+| HuggingFace       | - $            |
 | Total             | + $105.01      |
 
 Book **sales are in line with 2024**, which is a bad news because in the last months they have been increasing on average. Nothing new on the expenses side, and I am asking myself if I really should spend more now that I am making some money with freelancing. I could **maybe spend on advertising** to try to grow some of my side projects.
