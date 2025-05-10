@@ -6,7 +6,7 @@ tags: indie hacking
 header-image: /images/apr-report.jpg
 ---
 
-Another late report. It's becoming the norm right now, but the main reason this month is that I am traveling and have very little time. And the time that I have, I prefer to spend it working.
+Another late report. It's becoming the norm right now, but the main reason this month is that I am traveling and have very little time. And **the time that I have, I prefer to spend it working**.
 Right now I am writing it from a cafe in St. Petersburg. I took a couple of hours and left my wife and daughter in our hotel room. I hope they will not notice my absence.
 
 These updates will be very short in the future. I guess they still count though.
@@ -17,7 +17,7 @@ Ouch. no article written this month. Too busy freelancing, but at least it gave 
 
 ## [Data Internships][datainternships]
 
-I have sent 3 newsletters this month. Only skipped one week. But I didn't manage to sell any spot on the website. I should really push sales with cold emails and DMs for it to really work.
+I **have sent 3 newsletters** this month. Only skipped one week. But I didn't manage to sell any spot on the website. I should really push sales with cold emails and DMs for it to really work.
 
 I lost **11 subscribers in April, total is 2030 now**.
 
@@ -49,11 +49,11 @@ Time to look at the income for this month (without freelancing).
 | HuggingFace       | - $0.53        |
 | Total             | - $22.19       |
 
-Damn, this is the first month in a few years that I am spending more than I am making. I feel like a VC funded startup right now. And it's not a good feeling. Book sales are at an all-time low, and I don't think this is going to change, maybe there will be a rebound at the end of the year. But in the short term I am not expecting one. I guess if publishing the translation of the book in Spanish has had any effect on the sales? I will wait until the end of May, and then I will try to take it off the market to see if it makes a difference.
+Damn, this is the first month in a few years that I am spending more than I am making. **I feel like a VC funded startup** right now. And it's not a good feeling. Book sales are at an all-time low, and I don't think this is going to change, maybe there will be a rebound at the end of the year. But in the short term I am not expecting one. I guess if **publishing the translation of the book in Spanish** has had any effect on the sales? I will wait until the end of May, and then I will try to take it off the market to see if it makes a difference.
 
 ## The future
 
-This might be and definitely is a problem for a distant future. What to focus on? It's clear that right now nothing is working, but it's not clear in which direction to go. I might try to write another book, or maybe I can try to launch another product, since I have 58 different ideas for new products in my Trello board. Maybe I should launch a directory of not-validated startup ideas? Or maybe almost validated? Some of those ideas are interesting and have some validation like a viral tweet, or a feature request on a specific competitor tool. I will add this to the list. Now it's 59.
+This might be and definitely is a problem for a distant future, or whenever I ßhave time. What to focus on? It's clear that **right now nothing is working**, but it's not clear in which direction to go. I might try to write another book, or maybe I can try to launch another product, since **I have 58 different ideas** for new products in my Trello board. Maybe I should launch a directory of not-validated startup ideas? Or maybe almost validated? Some of those ideas are interesting and have some validation like a viral tweet, or a feature request on a specific competitor tool. I will add this to the list. Now it's 59.
 
 [soccrbets]: https://soccrbets.com
 [xtopics]: https://xtopics.co
