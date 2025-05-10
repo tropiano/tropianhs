@@ -17,9 +17,9 @@ Ouch. no article written this month. Too busy freelancing, but at least it gave 
 
 ## [Data Internships][datainternships]
 
-I have sent 1 newsletter this month. Even here, more unsubscribes than subscribers and still nobody that wants to pay for a spot in the newsletter or the site.
+I have sent 3 newsletters this month. Only skipped one week. But I didn't manage to sell any spot on the website. I should really push sales with cold emails and DMs for it to really work.
 
-I lost **2 subscribers in March, total is 2054 now**.
+I lost **11 subscribers in April, total is 2030 now**.
 
 ## [X Topics][xtopics]
 
