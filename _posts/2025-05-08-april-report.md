@@ -7,7 +7,7 @@ header-image: /images/apr-report.jpg
 ---
 
 Another late report. It's becoming the norm right now, but the main reason this month is that I am traveling and have very little time. And the time that I have, I prefer to spend it working.
-Right now I am writing it from a cafe' in St. Petersburg. I took a couple of hours and left my wife and daughter in our hotel room. I hope they will not notice my absence.
+Right now I am writing it from a cafe in St. Petersburg. I took a couple of hours and left my wife and daughter in our hotel room. I hope they will not notice my absence.
 
 These updates will be very short in the future. I guess they still count though.
 
@@ -51,6 +51,9 @@ Time to look at the income for this month (without freelancing).
 
 Damn, this is the first month in a few years that I am spending more than I am making. I feel like a VC funded startup right now. And it's not a good feeling. Book sales are at an all-time low, and I don't think this is going to change, maybe there will be a rebound at the end of the year. But in the short term I am not expecting one. I guess if publishing the translation of the book in Spanish has had any effect on the sales? I will wait until the end of May, and then I will try to take it off the market to see if it makes a difference.
 
+## The future
+
+This might be and definitely is a problem for a distant future. What to focus on? It's clear that right now nothing is working, but it's not clear in which direction to go. I might try to write another book, or maybe I can try to launch another product, since I have more than 40
 
 [soccrbets]: https://soccrbets.com
 [xtopics]: https://xtopics.co
