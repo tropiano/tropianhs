@@ -3,22 +3,17 @@ layout: post
 title: "April 2025 Earnings"
 categories: diary
 tags: indie hacking
-header-image: /images/mar-report.jpg
+header-image: /images/apr-report.jpg
 ---
 
-Wow. It's almost April and I am only now starting to write the March report.
+Another late report. It's becoming the norm right now, but the main reason this month is that I am traveling and have very little time. And the time that I have, I prefer to spend it working.
+Right now I am writing it from a cafe' in St. Petersburg. I took a couple of hours and left my wife and daughter in our hotel room. I hope they will not notice my absence.
 
-This has been a very busy month, but I feel like I accomplished nothing, and I am probably right. I thought that by the time my daughter turned 6 months I would be able to go back to working 4 days a week for 5 hours, but it has not happened. And since I need to focus on my freelancing at least 3 days per week, this doesn't leave me any time for pursuing side projects seriously.
-
-To be fair, I still can spend 1-2 hours per day to work on my projects, but those are usually late night, after 9 pm. Which is not the best time to be productive. My daughter wakes up at 6.30 am, so I cannot really work in the early morning either. And during the day, I am lucky if I can work 30 minutes without interruption, which clearly kills my productivity. Losing focus, it takes me twice as long to finish a task.
-
-I guess I am screwed, and I don't even know if it makes sense anymore to pursue this crazy dream of indie hacking, when my main aim right now is to earn enough money to survive. Which is a sad state of things, considering that I am almost 42 and by now I should have a house (still renting), some sizeable investment assets (I have less than 15k) and I should at least not spend more than I earn (I am biting into my savings at the rate of 2k per month). At this rate, drastic choices would need to be made that could change not only my professional path but my life path and the destiny of my little family.
-
-Anyway, let's just fill the numbers and go back to try to work. Right now I am traveling and I have even less time to do this.
+These updates will be very short in the future. I guess they still count though.
 
 ## [Data Freelance][tg-datafreelance]
 
-I wrote two new articles in March. I think those are good and helpful, but nobody is subscribing to the channel. I have now **39 members, which is 12 more** than last month.
+Ouch. no article written this month. Too busy freelancing, but at least it gave me some material for an article or two to write. Subscribers to my TG channel kept growing slowly. I have now **45 members, which is 6 more** than last month.
 
 ## [Data Internships][datainternships]
 
@@ -48,12 +43,12 @@ Time to look at the income for this month.
 
 | Item              | Income/Expense |
 | ----------------- | -------------- |
-| Amazon book sales | + $      |
+| Amazon book sales | + $            |
 | Domain renewals   | - $36.44       |
 | Appliku           | - $10.00       |
 | Hetzner           | - $5.31        |
 | X Premium         | - $10.68       |
-| DeepSeek          | - $        |
+| DeepSeek          | - $            |
 | HuggingFace       | - $0.77        |
 | Total             | + $105.01      |
 
