@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "March 2025 Earnings"
+title: "April 2025 Earnings"
 categories: diary
 tags: indie hacking
 header-image: /images/mar-report.jpg
