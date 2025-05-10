@@ -29,13 +29,12 @@ I worked on making the landing page a bit more appealing. The main problem here 
 
 Same as last month really.
 
-I have got now **40 subscribers on my YT channel, 2 more than last month** and the subscribers on the **TG channel grew to 68, 8 more than last month**. The problem is that I got banned from r/sportsbook. Too much promotion they say.
+I have got now **40 subscribers on my YT channel, 2 more than last month** and the subscribers on the **TG channel grew to 68, 8 more than last month**. The problem is that I got banned from r/sportsbook. Too much promotion they say. I have got to find an alternative channel. Maybe I should try with Telegram ads?
 
 ## [Freelancing][personal]
 
-Most of the time went on freelancing this month. I hope it's enough to pay the bills. After taxes I am afraid I am still under.
+Again, spending almost all my free time freelancing this month. I hope it's enough to pay the bills. After taxes I am afraid I am still under.
 
-I paid the Italian taxes for 2023 this month. Roughly 10k taxes for 22k earnings. What the fuck.
 
 ## The cashflow
 
