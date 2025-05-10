@@ -33,12 +33,11 @@ I have got now **40 subscribers on my YT channel, 2 more than last month** and t
 
 ## [Freelancing][personal]
 
-Again, spending almost all my free time freelancing this month. I hope it's enough to pay the bills. After taxes I am afraid I am still under.
-
+I kept freelancing in April. I am doing very interesting work, and it definitely helps me pay the bills.
 
 ## The cashflow
 
-Time to look at the income for this month.
+Time to look at the income for this month (without freelancing).
 
 | Item              | Income/Expense |
 | ----------------- | -------------- |
@@ -48,7 +47,7 @@ Time to look at the income for this month.
 | Hetzner           | - $5.31        |
 | X Premium         | - $10.68       |
 | DeepSeek          | - $            |
-| HuggingFace       | - $0.77        |
+| HuggingFace       | - $       |
 | Total             | + $105.01      |
 
 Book **sales are in line with 2024**, which is a bad news because in the last months they have been increasing on average. Nothing new on the expenses side, and I am asking myself if I really should spend more now that I am making some money with freelancing. I could **maybe spend on advertising** to try to grow some of my side projects.
