@@ -53,7 +53,7 @@ Damn, this is the first month in a few years that I am spending more than I am m
 
 ## The future
 
-This might be and definitely is a problem for a distant future. What to focus on? It's clear that right now nothing is working, but it's not clear in which direction to go. I might try to write another book, or maybe I can try to launch another product, since I have almost 60 ideas for new products in my Treloo board.
+This might be and definitely is a problem for a distant future. What to focus on? It's clear that right now nothing is working, but it's not clear in which direction to go. I might try to write another book, or maybe I can try to launch another product, since I have almost 60 ideas for new products in my Trello board. Maybe I should launch a directory of not-validated startup ideas? Or maybe almost validated? Some of those ideas are really   
 
 [soccrbets]: https://soccrbets.com
 [xtopics]: https://xtopics.co
