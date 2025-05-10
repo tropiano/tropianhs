@@ -23,11 +23,11 @@ I lost **11 subscribers in April, total is 2030 now**.
 
 ## [X Topics][xtopics]
 
-No time to work on this. I only renewed the domain for another year. It's very hard to promote this project. Even when I go viral on Threads nobody visits the website, which is sad.
+I worked on making the landing page a bit more appealing. The main problem here is that nobody signs up. It's not only about marketing. The product needs some love too, and I need to make something that really works and is really useful, not just a nice to have.
 
 ## [Soccrbets][soccrbets]
 
-Usual work, with weekly posting on Reddit and on the TG channel. Unfortunately the bets are not going very well, which is really the only thing that matters to get new subscribers.
+Same as last month really.
 
 I have got now **38 subscribers on my YT channel, 5 more than last week** and the subscribers on the **TG channel grew to 60, 13 more than last month**. I hope to get to 100 before the end of the football season.
 
