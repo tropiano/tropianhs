@@ -47,9 +47,9 @@ Time to look at the income for this month (without freelancing).
 | Hetzner           | - $5.31        |
 | X Premium         | - $10.68       |
 | HuggingFace       | - $0.53        |
-| Total             | - $105.01      |
+| Total             | - $22.19       |
 
-Book **sales are in line with 2024**, which is a bad news because in the last months they have been increasing on average. Nothing new on the expenses side, and I am asking myself if I really should spend more now that I am making some money with freelancing. I could **maybe spend on advertising** to try to grow some of my side projects.
+Damn, this is the first month in a few years that I am spending more than I am making. I feel like a VC funded startup right now. And it's not a good feeling. Book sales are at an all-time low, and I don't think this is going to change, maybe there will be a rebound at the end of the
 
 [soccrbets]: https://soccrbets.com
 [xtopics]: https://xtopics.co
