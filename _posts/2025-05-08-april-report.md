@@ -29,7 +29,7 @@ I worked on making the landing page a bit more appealing. The main problem here 
 
 Same as last month really.
 
-I have got now **38 subscribers on my YT channel, 5 more than last week** and the subscribers on the **TG channel grew to 60, 13 more than last month**. I hope to get to 100 before the end of the football season.
+I have got now **40 subscribers on my YT channel, 2 more than last month** and the subscribers on the **TG channel grew to 68, 8 more than last month**. The problem is that I got banned from r/sportsbook. Too much promotion they say.
 
 ## [Freelancing][personal]
 
