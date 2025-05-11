@@ -44,7 +44,7 @@ Time to look at the income for this month (without freelancing).
 | Amazon book sales | + $40.77       |
 | Domain renewals   | - $36.44       |
 | Appliku           | - $10.00       |
-| Hetzner           | - $5.31        |
+| Hetzner           | - $6.36        |
 | X Premium         | - $10.68       |
 | HuggingFace       | - $0.53        |
 | Total             | - $22.19       |
