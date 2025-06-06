@@ -6,13 +6,14 @@ tags: indie hacking
 header-image: /images/may-report.jpg
 ---
 
-This time the report comes more or less on time. In May I still spent quite a lot of time travelling but I also managed to find time to do a few things
+This time the report comes more or less on time. In May, I still spent quite a lot of time travelling, but I also managed to find time to do a few new things
 
-- I started to work on a new feature for [xTopics][xtopics]. I keep postponing the launch, but I should be able to launch in June at some point.
-- I found one new client for freelancing. It's not a big contract but it is very interesting and helps me pay the bills.
-- I attended a [Startup conference][startupvillage] in Moscow and met a few interesting founders.
+- I started to **work on a new feature for [xTopics][xtopics]**. I keep postponing the launch, but I should be able to launch in June at some point.
+- I found **one new client** to freelance. It's not a big contract, but it is very interesting and helps me pay the bills.
+- I **attended a [Startup conference][startupvillage]** in Moscow and met a few interesting founders.
 
-Quick update on my projects. Let's see how they went in May.
+Quick update on all
+my projects. Let's see how they went in May.
 
 ## [Data Freelance][tg-datafreelance]
 
@@ -71,7 +72,7 @@ This month I will give a try to Amazon Ads. I have already done it before, but i
 
 ## The future
 
-This might be and definitely is a problem for a distant future, or whenever I ßhave time. What to focus on? It's clear that **right now nothing is working**, but it's not clear in which direction to go. I might try to write another book, or maybe I can try to launch another product, since **I have 58 different ideas** for new products in my Trello board. Maybe I should launch a directory of not-validated startup ideas? Or maybe almost validated? Some of those ideas are interesting and have some validation like a viral tweet, or a feature request on a specific competitor tool. I will add this to the list. Now it's 59.
+Re-reading this update, I think I am doing too many things at once. I am definitely trying the strategy of throwing spaghetti at the wall and see what sticks, but I am sticking with projects that don't work for too long. Spending time on things that don't work is not a good idea, but I also have a hard time letting go and understanding what is not worth my time anymore.
 
 [soccrbets]: https://soccrbets.com
 [xtopics]: https://xtopics.co
