@@ -16,11 +16,11 @@ Quick update on my projects. Let's see how they went in May.
 
 ## [Data Freelance][tg-datafreelance]
 
-I interviewed [Dominique][dom-x] Ouch. no article written this month. Too busy freelancing, but at least it gave me some material for an article or two to write. Subscribers to my TG channel kept growing slowly. I have now **45 members, which is 6 more** than last month.
+I interviewed [Dominique][dom-x]. Super interesting guy that went into freelancing fresh off of Zurich ETH. Dominique is an amazing guy and he has a very inspiring story that my readers loved. I shared the story on X and got some new subscribers because of that. Lesson: I should share everything more often and on more platforms. I have now **57 members, which is 12 more** than last month.
 
 ## [Data Internships][datainternships]
 
-I **have sent 3 newsletters** this month. Only skipped one week. But I didn't manage to sell any spot on the website. I should really push sales with cold emails and DMs for it to really work.
+This one is paused right now. Didn't have time to work on it and I didn't even send I **have sent 3 newsletters** this month. Only skipped one week. But I didn't manage to sell any spot on the website. I should really push sales with cold emails and DMs for it to really work.
 
 I lost **11 subscribers in April, total is 2030 now**.
 
