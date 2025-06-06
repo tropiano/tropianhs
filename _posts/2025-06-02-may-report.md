@@ -20,7 +20,7 @@ I interviewed [Dominique][dom-x]. Super interesting guy that went into freelanci
 
 ## [Data Internships][datainternships]
 
-This one is paused right now. Didn't have time to work on it and I didn't even send I **have sent 3 newsletters** this month. Only skipped one week. But I didn't manage to sell any spot on the website. I should really push sales with cold emails and DMs for it to really work.
+This one is paused right now. Didn't have time to work on it and I didn't even send newsletters. Which is probably very stupid since it's the project that gets more traffic overall (mostly from SEO). I **have sent 3 newsletters** this month. Only skipped one week. But I didn't manage to sell any spot on the website. I should really push sales with cold emails and DMs for it to really work.
 
 I lost **11 subscribers in April, total is 2030 now**.
 
