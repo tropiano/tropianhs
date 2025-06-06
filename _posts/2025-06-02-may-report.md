@@ -32,6 +32,8 @@ As I mentioned in the intro, I am developing a Product Hunt trend tracker. The i
 2.  Maybe I need to broaden my scope and make a tool that shows trending topics across various platforms (like Product Hunt, HackerNews and GitHub).
 3.  Maybe I should try this marketing strategy on Threads as well and stick to the original idea.
 
+I think the less effort path is number 3. I need to find a few keywords and accounts to target and start commenting on their posts daily. Sounds like a good marketing effort. Let's see if it pays off this month.
+
 ## [Soccrbets][soccrbets]
 
 Same as last month really.
