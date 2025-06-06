@@ -17,7 +17,7 @@ my projects. Let's see how they went in May.
 
 ## [Data Freelance][tg-datafreelance]
 
-I interviewed [Dominique][dom-x]. Super interesting guy that went into freelancing fresh off of Zurich ETH. Dominique is an amazing guy and he has a very inspiring story that my readers loved. I shared the story on X and got some new subscribers because of that. Lesson: I should share everything more often and on more platforms. I have now **57 members, which is 12 more** than last month.
+I interviewed [Dominique][dom-x]. Super-interesting guy that **went into freelancing fresh off of Zurich ETH** and made $100k in a bit more than one year. Dominique's a very inspiring story that my readers loved. I shared the interview on X and got some new subscribers because of that. Lesson: I should share everything more often and on more platforms. I have now **57 members, which is 12 more** than last month.
 
 ## [Data Internships][datainternships]
 
@@ -72,7 +72,7 @@ This month I will give a try to Amazon Ads. I have already done it before, but i
 
 ## The future
 
-Re-reading this update, I think I am doing too many things at once. I am definitely trying the strategy of throwing spaghetti at the wall and see what sticks, but I am sticking with projects that don't work for too long. Spending time on things that don't work is not a good idea, but I also have a hard time letting go and understanding what is not worth my time anymore.
+Re-reading this update, I think I am doing too many things at once. I am definitely trying the strategy of throwing spaghetti at the wall and see what sticks, but I am sticking with projects that don't work for too long. Spending time on things that don't work is not a good idea, but I also have a hard time letting go and understanding what is not worth my time anymore. Maybe I will give one full month of attention to each of my projects and if it doesn't get traction I kill it? Could be a good strategy.
 
 [soccrbets]: https://soccrbets.com
 [xtopics]: https://xtopics.co
