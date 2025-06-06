@@ -24,9 +24,9 @@ This one is paused right now. Didn't have time to work on it and I didn't even s
 
 Subscribers were stable in **May at a total of 2030**.
 
-## [X Topics][xtopics]
+## [xTopics][xtopics]
 
-I worked on making the landing page a bit more appealing. The main problem here is that nobody signs up. It's not only about marketing. The product needs some love too, and I need to make something that really works and is really useful, not just a nice to have.
+As I mentioned in the intro, I am developing a Product Hunt trend tracker. The initial idea was to launch it quickly on Product Hunt in order to do some product marketing for xTopics. As I I worked on making the landing page a bit more appealing. The main problem here is that nobody signs up. It's not only about marketing. The product needs some love too, and I need to make something that really works and is really useful, not just a nice to have.
 
 ## [Soccrbets][soccrbets]
 
