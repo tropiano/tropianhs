@@ -26,7 +26,7 @@ Subscribers were stable in **May at a total of 2030**.
 
 ## [xTopics][xtopics]
 
-As I mentioned in the intro, I am developing a Product Hunt trend tracker. The initial idea was to launch it quickly on Product Hunt in order to do some product marketing for xTopics. As I I worked on making the landing page a bit more appealing. The main problem here is that nobody signs up. It's not only about marketing. The product needs some love too, and I need to make something that really works and is really useful, not just a nice to have.
+As I mentioned in the intro, I am developing a Product Hunt trend tracker. The initial idea was to launch it quickly on Product Hunt in order to do some product marketing for xTopics. As I kept working on it, I started to see more potential, and I plan to integrate the feature inside the main product. The screenshots I posted online attracted some attention (not that much) and I might even think of pivoting at some point. Another interesting I worked on making the landing page a bit more appealing. The main problem here is that nobody signs up. It's not only about marketing. The product needs some love too, and I need to make something that really works and is really useful, not just a nice to have.
 
 ## [Soccrbets][soccrbets]
 
