@@ -44,7 +44,7 @@ I have got now **40 subscribers on my YT channel, unchanged from last month** an
 
 ## [Freelancing][personal]
 
-I kept freelancing in May. I am doing very interesting work, and it definitely helps me pay the bills.
+I kept freelancing in May, lost one client, but found another one. Here I am not going to post the earnings, but enough to say that they range between 2.5k and 4k a month, depending on what I do. And I am doing very interesting work, and although I am not saving anything, it helps me and my family pay the bills.
 
 ## The cashflow
 
@@ -52,8 +52,7 @@ Time to look at the income for this month (without freelancing).
 
 | Item                 | Income/Expense |
 | -------------------- | -------------- |
-| Amazon book sales    | + $40.77       |
-| Domain renewals      | - $36.44       |
+| Amazon book sales    | + $113.38      |
 | Appliku              | - $10.00       |
 | Hetzner              | - $6.36        |
 | X Premium            | - $10.68       |
