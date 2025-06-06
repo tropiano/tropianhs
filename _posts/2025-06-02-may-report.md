@@ -16,7 +16,7 @@ Quick update on my projects. Let's see how they went in May.
 
 ## [Data Freelance][tg-datafreelance]
 
-Ouch. no article written this month. Too busy freelancing, but at least it gave me some material for an article or two to write. Subscribers to my TG channel kept growing slowly. I have now **45 members, which is 6 more** than last month.
+I interviewed [Dominique][dom-x] Ouch. no article written this month. Too busy freelancing, but at least it gave me some material for an article or two to write. Subscribers to my TG channel kept growing slowly. I have now **45 members, which is 6 more** than last month.
 
 ## [Data Internships][datainternships]
 
@@ -64,7 +64,6 @@ This might be and definitely is a problem for a distant future, or whenever I ß
 [personal]: https://x.com/tropianhs
 [datainternships]: https://datainternships.co
 [telegram-soccrbets]: https://t.me/soccrbets
-[soccrbets-video]: https://youtu.be/4US_E-1cL0w
 [tg-datafreelance]: https://t.me/datafreelance
-[yt-video]: https://youtu.be/WXE_ewe6zqM
 [startupvillage]: https://startupvillage.ru
+[dom-x]: https://x.com/DominiqueCAPaul
