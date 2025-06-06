@@ -1,10 +1,16 @@
 ---
 layout: post
-title: "April 2025 Earnings"
+title: "May 2025 Earnings"
 categories: diary
 tags: indie hacking
-header-image: /images/apr-report.jpg
+header-image: /images/may-report.jpg
 ---
+
+This time the report comes more or less on time. In May I still spent quite a lot of time travelling but I also managed to find time to do a few things
+
+- I started to work on a new feature for [xTopics][xtopics]. I keep postponing the launch, but I should be able to launch in June at some point.
+- I found one new client for freelancing. It's not a big contract but it is very interesting and helps me pay the bills.
+- I attended a [Startup conference][startupvillage]
 
 Another late report. It's becoming the norm right now, but the main reason this month is that I am traveling and have very little time. And **the time that I have, I prefer to spend it working**.
 Right now I am writing it from a cafe in St. Petersburg. I took a couple of hours and left my wife and daughter in our hotel room. I hope they will not notice my absence.
@@ -64,3 +70,4 @@ This might be and definitely is a problem for a distant future, or whenever I ß
 [soccrbets-video]: https://youtu.be/4US_E-1cL0w
 [tg-datafreelance]: https://t.me/datafreelance
 [yt-video]: https://youtu.be/WXE_ewe6zqM
+[startupvillage]: https://startupvillage.ru
