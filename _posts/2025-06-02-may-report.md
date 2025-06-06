@@ -36,7 +36,7 @@ I think the less effort path is number 3. I need to find a few keywords and acco
 
 ## [Soccrbets][soccrbets]
 
-Same as last month really.
+The season is over and in May I published my last prediction before the football starts again in 2 months. Same as last month really.
 
 I have got now **40 subscribers on my YT channel, 2 more than last month** and the subscribers on the **TG channel grew to 68, 8 more than last month**. The problem is that I got banned from r/sportsbook. Too much promotion they say. I have got to find an alternative channel. Maybe I should try with Telegram ads?
 
