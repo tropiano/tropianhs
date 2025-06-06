@@ -60,7 +60,14 @@ Time to look at the income for this month (without freelancing).
 | Freelancing services | - $13.71       |
 | Total                | - $70.88       |
 
-Damn, this is the first month in a few years that I am spending more than I am making. **I feel like a VC funded startup** right now. And it's not a good feeling. Book sales are at an all-time low, and I don't think this is going to change, maybe there will be a rebound at the end of the year. But in the short term I am not expecting one. I guess if **publishing the translation of the book in Spanish** has had any effect on the sales? I will wait until the end of May, and then I will try to take it off the market to see if it makes a difference.
+Going back to positive territory again. But I think I should think like a startup and invest every bit of profit from my projects back into the business. There are a few things that come to mind
+
+1. Turn on Amazon ads for my soccer betting books.
+2. Pay for X API and expand xTopics in the X niche.
+3. Pay for a service that lets me send hundreds of cold emails to potential B2B leads.
+4. Pay for an AI API to build an AI first product (probably something around image generation for B2B).
+
+This month I will give a try Damn, this is the first month in a few years that I am spending more than I am making. **I feel like a VC funded startup** right now. And it's not a good feeling. Book sales are at an all-time low, and I don't think this is going to change, maybe there will be a rebound at the end of the year. But in the short term I am not expecting one. I guess if **publishing the translation of the book in Spanish** has had any effect on the sales? I will wait until the end of May, and then I will try to take it off the market to see if it makes a difference.
 
 ## The future
 
