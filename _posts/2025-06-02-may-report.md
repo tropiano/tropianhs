@@ -58,7 +58,7 @@ Time to look at the income for this month (without freelancing).
 | X Premium            | - $11.15       |
 | HuggingFace          | - $0.67        |
 | Freelancing services | - $13.71       |
-| Total                | - $23.24       |
+| Total                | - $70.88       |
 
 Damn, this is the first month in a few years that I am spending more than I am making. **I feel like a VC funded startup** right now. And it's not a good feeling. Book sales are at an all-time low, and I don't think this is going to change, maybe there will be a rebound at the end of the year. But in the short term I am not expecting one. I guess if **publishing the translation of the book in Spanish** has had any effect on the sales? I will wait until the end of May, and then I will try to take it off the market to see if it makes a difference.
 
