@@ -67,5 +67,4 @@ This might be and definitely is a problem for a distant future, or whenever I ß
 [tg-datafreelance]: https://t.me/datafreelance
 [startupvillage]: https://startupvillage.ru
 [dom-x]: https://x.com/DominiqueCAPaul
-
-[xtopics-plug]:
+[xtopics-plug]: https://x.com/tropianhs/status/1929904801904521512
