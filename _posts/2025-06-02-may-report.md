@@ -10,12 +10,9 @@ This time the report comes more or less on time. In May I still spent quite a lo
 
 - I started to work on a new feature for [xTopics][xtopics]. I keep postponing the launch, but I should be able to launch in June at some point.
 - I found one new client for freelancing. It's not a big contract but it is very interesting and helps me pay the bills.
-- I attended a [Startup conference][startupvillage]
+- I attended a [Startup conference][startupvillage] in Moscow and met a few interesting founders.
 
-Another late report. It's becoming the norm right now, but the main reason this month is that I am traveling and have very little time. And **the time that I have, I prefer to spend it working**.
-Right now I am writing it from a cafe in St. Petersburg. I took a couple of hours and left my wife and daughter in our hotel room. I hope they will not notice my absence.
-
-These updates will be very short in the future. I guess they still count though.
+Quick update on my projects. Let's see how they went in May.
 
 ## [Data Freelance][tg-datafreelance]
 
