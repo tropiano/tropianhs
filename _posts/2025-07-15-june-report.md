@@ -10,7 +10,8 @@ Another month another report. Looking at my notes, it seems such a long time ago
 
 I started to meet new people again in June, which is something I didn't do since a very long time. Living in another country is complicated to find new people, but social media help. Despite all the hate and brainrot online, I still think socials are a net positive in people's lives. Especially people that travel a lot and have non-standard interests.
 
-Work-wise.
+Work-wise, I kept freelancing, this helps me have a stable income. Although I am not saving, and actually losing a few hundreds each month. Life is expensive in Moscow, and the exchange rate is not making it easier.
+
 This time the report comes more or less on time. In May, I still spent quite a lot of time travelling, but I also managed to find time to do a few new things
 
 - I started to **work on a new feature for [xTopics][xtopics]**. I keep postponing the launch, but I should be able to launch in June at some point.
