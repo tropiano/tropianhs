@@ -18,7 +18,7 @@ But I feel like I'm a bit rusty and cannot ship as fast as before. That's why in
 
 ## [Data Freelance][tg-datafreelance]
 
-I didn't write any article this month. Too busy building. But I am going to start writing a write-up of my freelancing activities with full breakdown of revenue there. If you are interested just [follow the TG channel][] on X and got some new subscribers because of that. Lesson: I should share everything more often and on more platforms. I have now **57 members, which is 12 more** than last month.
+I didn't write any article this month. Too busy building. But I am going to start writing a write-up of my freelancing activities with full breakdown of revenue there. If you are interested just [follow the TG channel][tg-datafreelance] on X and got some new subscribers because of that. Lesson: I should share everything more often and on more platforms. I have now **57 members, which is 12 more** than last month.
 
 ## [Data Internships][datainternships]
 
