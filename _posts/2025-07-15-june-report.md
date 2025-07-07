@@ -12,7 +12,7 @@ I started to meet new people again in June, which is something I didn't do since
 
 Work-wise, I kept freelancing, this helps me have a stable income. Although I am not saving, and actually losing a few hundreds each month. Life is expensive in Moscow, and the exchange rate is not making it easier.
 
-This time the report comes more or less on time. In May, I still spent quite a lot of time travelling, but I also managed to find time to do a few new things
+Time is still an issue, but getting better. I manage to find time to build on the side, especially at night and sometimes on weekends. I got into a routine where around 9 pm everybody is asleep, and I can build for 2-3 hours. I think that's what Pat Walls does. Focused work for 2 hours every day is enough to build a business.
 
 - I started to **work on a new feature for [xTopics][xtopics]**. I keep postponing the launch, but I should be able to launch in June at some point.
 - I found **one new client** to freelance. It's not a big contract, but it is very interesting and helps me pay the bills.
