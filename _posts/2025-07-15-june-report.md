@@ -32,6 +32,8 @@ Subscribers were stable in **June at a total of 2030**.
 
 I [launched a Product Hunt trend tracker!][ph-launch] It's built on Product Hunt API, and it shows the trending topics in the top products that are launched on PH. The launch went well I must say. I got featured, with 130 upvotes I was in the top 20 of the day. Did it translate in sales? Not so far, but I got 15 new subscribers. None of them uses Threads, so I guess they are pretty much useless. But they might be an initial set of users in case I decided to pivot in the direction of a Tech trends tracker.
 
+As I wrote before, this was not really an effort to launch a new product. It's been more to exercise my shipping muscle. I have already improved my boilerplate a lot and the next product I will launch will be even better.
+
 ## [Soccrbets][soccrbets]
 
 The season is over and **in May I published my last prediction** before the football starts again in 2 months. I didn't make any new video.
