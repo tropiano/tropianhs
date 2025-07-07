@@ -6,6 +6,11 @@ tags: indie hacking
 header-image: /images/june-report.jpg
 ---
 
+Another month another report. Looking at my notes, it seems such a long time ago. I guess that means I am making progress, or at least I am moving forward and doing things. Which is positive.
+
+I started to meet new people again in June, which is something I didn't do since a very long time. Living in another country is complicated to find new people, but social media help. Despite all the hate and brainrot online, I still think socials are a net positive in people's lives. Especially people that travel a lot and have non-standard interests.
+
+Work-wise.
 This time the report comes more or less on time. In May, I still spent quite a lot of time travelling, but I also managed to find time to do a few new things
 
 - I started to **work on a new feature for [xTopics][xtopics]**. I keep postponing the launch, but I should be able to launch in June at some point.
