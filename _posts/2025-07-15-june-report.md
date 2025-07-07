@@ -38,7 +38,7 @@ As I wrote before, this was not really an effort to launch a new product. It's b
 
 Season over, no new updates. Will I keep working on it in the future? Not sure. As I wrote in the past, I have too many things going on and this is not bringing the results I expected (selling more books). I actually sell more books when I yap on X. Maybe the YT channel is still worth it though.
 
-I have got now **40 subscribers on my YT channel, unchanged from last month** and the subscribers on the **TG channel grew to 72, 1 more than last month**.
+I have got now **45 subscribers on my YT channel, +5 from last month** and the subscribers on the **TG channel grew to 72, 1 more than last month**.
 
 ## [Freelancing][personal]
 
