@@ -18,11 +18,13 @@ But I feel like I'm a bit rusty and cannot ship as fast as before. That's why in
 
 ## [Data Freelance][tg-datafreelance]
 
-I didn't write any article this month. Too busy building. But I am going to start writing a write-up of my freelancing activities with full breakdown of revenue there. If you are interested just [follow the TG channel][tg-datafreelance] on X and got some new subscribers because of that. Lesson: I should share everything more often and on more platforms. I have now **57 members, which is 12 more** than last month.
+I didn't write any article this month. Too busy building. But I am going to start writing a write-up of my freelancing activities with full breakdown of revenue there. If you are interested just [follow the TG channel][tg-datafreelance].
+
+Somehow subscribers keep increasing. There are now **65 members, which is 8 more** than last month. Maybe I can get top 100 before the SUmmer ends.
 
 ## [Data Internships][datainternships]
 
-This one is paused right now. **Didn't have time to work on it** and I didn't even send newsletters. Which is probably very stupid since it's the project that gets more traffic overall (mostly from SEO). I think the only way forward for this project is to **automate more the job selection process so that I don't spend hours curating jobs**, and at the same time start sending massive cold emails to companies looking for sponsors.
+Nothing on it. I had a chat with [Fran Betteo][] on X This one is paused right now. **Didn't have time to work on it** and I didn't even send newsletters. Which is probably very stupid since it's the project that gets more traffic overall (mostly from SEO). I think the only way forward for this project is to **automate more the job selection process so that I don't spend hours curating jobs**, and at the same time start sending massive cold emails to companies looking for sponsors.
 
 Subscribers were stable in **May at a total of 2030**.
 
