@@ -24,13 +24,13 @@ Somehow subscribers keep increasing. There are now **65 members, which is 8 more
 
 ## [Data Internships][datainternships]
 
-Nothing on it. I had a chat with [Fran Betteo][] on X This one is paused right now. **Didn't have time to work on it** and I didn't even send newsletters. Which is probably very stupid since it's the project that gets more traffic overall (mostly from SEO). I think the only way forward for this project is to **automate more the job selection process so that I don't spend hours curating jobs**, and at the same time start sending massive cold emails to companies looking for sponsors.
+No activity this month. I had a chat with [Fran Betteo][] on X the other day. Gave me some motivation, maybe with a bit of hustle I can get a few hundred bucks. Very inspiring story.
 
-Subscribers were stable in **May at a total of 2030**.
+Subscribers were stable in **June at a total of 2030**.
 
 ## [xTopics][xtopics]
 
-As I mentioned in the intro, **I am developing a Product Hunt trend tracker**. The initial idea was to launch it quickly on Product Hunt in order to do some product marketing for xTopics. As I kept working on it, I started to see more potential, and I plan to integrate the feature inside the main product. The screenshots I posted online attracted some attention, and I might even think of pivoting out from Threads.
+I launched a Product Hunt trend tracker! It's called The initial idea was to launch it quickly on Product Hunt in order to do some product marketing for xTopics. As I kept working on it, I started to see more potential, and I plan to integrate the feature inside the main product. The screenshots I posted online attracted some attention, and I might even think of pivoting out from Threads.
 
 The reason I am thinking of leaving the Threads' audience is that **I get almost no traffic from that platform**. Instead, I get much more visits from X. Even if I make more impressions with my posts on Threads. For example, an interesting thing happened this week. I saw a **post on X by Gumroad, they were looking for ideas and were ready to pay** people. I replied [plugging my product][xtopics-plug] and **this got ~100 clicks and something around 8 new free subscribers** to the tool. Looks like the landing page is converting after all. But of these 8 subscribers nobody connected their Threads account. Probably they don't have a Threads account, after all they come from X. But it would be stupid to ignore this strong signal. So I wonder what to do.
 
@@ -85,7 +85,6 @@ Re-reading this update, **I think I am doing too many things at once**. I am def
 [datainternships]: https://datainternships.co
 [telegram-soccrbets]: https://t.me/soccrbets
 [tg-datafreelance]: https://t.me/datafreelance
-[startupvillage]: https://startupvillage.ru
-[dom-x]: https://x.com/DominiqueCAPaul
+[fran-x]: https://x.com/franbetteo
 [xtopics-plug]: https://x.com/tropianhs/status/1929904801904521512
 [alexandra-x]: https://x.com/rocketshipalx
