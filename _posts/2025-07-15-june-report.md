@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "May 2025 Earnings"
+title: "June 2025 Earnings"
 categories: diary
 tags: indie hacking
-header-image: /images/may-report.jpg
+header-image: /images/june-report.jpg
 ---
 
 This time the report comes more or less on time. In May, I still spent quite a lot of time travelling, but I also managed to find time to do a few new things
