@@ -36,11 +36,9 @@ As I wrote before, this was not really an effort to launch a new product. It's b
 
 ## [Soccrbets][soccrbets]
 
-The season is over and **in May I published my last prediction** before the football starts again in 2 months. I didn't make any new video.
+Season over, no new updates. Will I keep working on it in the future? Not sure. As I wrote in the past, I have too many things going on and this is not bringing the results I expected (selling more books). I actually sell more books when I yap on X. Maybe the YT channel is still worth it though.
 
-There is more football this Summer with the Club World Cup starting in June. Would be interesting to write something about that, maybe a video, maybe an article analyzing the various teams. It **sounds like a lot of effort** though, between getting the data and trying to get some sense out of it. Probably better to focus on something else.
-
-I have got now **40 subscribers on my YT channel, unchanged from last month** and the subscribers on the **TG channel grew to 71, only 3 more than last month**. I am now relying only on word of mouth to acquire new subscribers, since my Reddit ban.
+I have got now **40 subscribers on my YT channel, unchanged from last month** and the subscribers on the **TG channel grew to 72, 1 more than last month**.
 
 ## [Freelancing][personal]
 
