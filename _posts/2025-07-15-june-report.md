@@ -14,12 +14,7 @@ Work-wise, I kept freelancing, this helps me have a stable income. Although I am
 
 Time is still an issue, but getting better. I manage to find time to build on the side, especially at night and sometimes on weekends. I got into a routine where around 9 pm everybody is asleep, and I can build for 2-3 hours. I think that's what Pat Walls does. Focused work for 2 hours every day is enough to build a business.
 
-- I started to **work on a new feature for [xTopics][xtopics]**. I keep postponing the launch, but I should be able to launch in June at some point.
-- I found **one new client** to freelance. It's not a big contract, but it is very interesting and helps me pay the bills.
-- I **attended a [Startup conference][startupvillage]** in Moscow and met a few interesting founders.
-
-Quick update on all
-my projects. Let's see how they went in May.
+But I feel like I'm a bit rusty and cannot ship as fast as before. That's why in June I decided to challenge myself. I am going to ship 3 products by the end of the Summer. Ideally one each month. Let's see if I can make it. The goal is to build some ship muscle, not to launch a big success. Low expectations.
 
 ## [Data Freelance][tg-datafreelance]
 
