@@ -11,4 +11,4 @@ gem "webrick", "~> 1.8"
 gem 'csv'
 gem 'logger'
 gem 'base64'
-
+gem 'bigdecimal'
