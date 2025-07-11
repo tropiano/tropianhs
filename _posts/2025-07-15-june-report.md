@@ -48,15 +48,15 @@ Still doing it. I am keeping the number of projects low for now, because again, 
 
 Time to look at the income for this month (without freelancing).
 
-| Item                 | Income/Expense |
-| -------------------- | -------------- |
-| Amazon book sales    | + $151.25      |
-| Appliku              | - $10.00       |
-| Hetzner              | - $6.65        |
-| X Premium            | - $11.15       |
-| HuggingFace          | - $0.67        |
-| Freelancing services | - $13.71       |
-| **Total**            | **+$70.88**    |
+| Item               | Income/Expense |
+| ------------------ | -------------- |
+| Amazon book sales  | + $151.25      |
+| Gumroad book sales | + $151.25      |
+| Appliku            | - $10.00       |
+| Hetzner            | - $6.65        |
+| X Premium          | - $8.72        |
+| HuggingFace        | - $3.17        |
+| **Total**          | **+$70.88**    |
 
 Going back to positive territory again, after the big drop in book sales that happened last month. But **I should think like a startup and invest every bit of profit from my projects back into the business**. There are a few things that come to mind
 
