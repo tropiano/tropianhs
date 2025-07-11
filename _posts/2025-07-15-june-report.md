@@ -57,7 +57,7 @@ Time to look at the income for this month (without freelancing).
 | Hetzner            | - $6.65        |
 | X Premium          | - $8.72        |
 | HuggingFace        | - $3.17        |
-| **Total**          | **+$70.88**    |
+| **Total**          | **+$138.58**   |
 
 Going back to positive territory again, after the big drop in book sales that happened last month. But **I should think like a startup and invest every bit of profit from my projects back into the business**. There are a few things that come to mind
 
