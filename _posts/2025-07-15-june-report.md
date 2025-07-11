@@ -52,7 +52,7 @@ Time to look at the income for this month (without freelancing).
 | -------------------- | -------------- |
 | Amazon book sales    | + $151.25      |
 | Appliku              | - $10.00       |
-| Hetzner              | - $6.97        |
+| Hetzner              | - $6.65        |
 | X Premium            | - $11.15       |
 | HuggingFace          | - $0.67        |
 | Freelancing services | - $13.71       |
