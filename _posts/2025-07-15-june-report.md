@@ -52,6 +52,7 @@ Time to look at the income for this month (without freelancing).
 | ------------------ | -------------- |
 | Amazon book sales  | + $151.25      |
 | Gumroad book sales | + $28.96       |
+| Amazon Ads         | - $13.09       |
 | Appliku            | - $10.00       |
 | Hetzner            | - $6.65        |
 | X Premium          | - $8.72        |
