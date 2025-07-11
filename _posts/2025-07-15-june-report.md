@@ -59,14 +59,7 @@ Time to look at the income for this month (without freelancing).
 | HuggingFace        | - $3.17        |
 | **Total**          | **+$138.58**   |
 
-Last month I was thinking of reinvesting all money setting up ads for my books or paying for some API that could improve my products. I invested in Ads and saw a small uptick in sales, but unfortunately I cannot advertise my betting books on the platform. I will try to in the Going back to positive territory again, after the big drop in book sales that happened last month. But **I should think like a startup and invest every bit of profit from my projects back into the business**. There are a few things that come to mind
-
-1. Turn on **Amazon ads** for my soccer betting books.
-2. Pay for X API and **expand xTopics in the X/Twitter niche**.
-3. Pay for a **service that lets me send hundreds of cold emails** to potential B2B leads.
-4. Pay for an AI API to **build an AI first product** (probably something around image generation for B2B).
-
-This month **I will try Amazon Ads**. I have already done it before, but it didn't really work well, and I spent more money than I earned in the end. But I got in touch with [Alexandra][alexandra-x] this month, she was super-kind to give me some pointers on which keywords to target, and I am going to give it another shot, since there is also Prime Day and in general **book sales go up for me in the Summer**. By the way, follow [Alexandra][alexandra-x], very interesting person and great content both on X ad YT.
+Last month I was thinking of reinvesting all money setting up ads for my books or paying for some API that could improve my products. I invested in Ads and saw a small uptick in sales, but unfortunately I cannot advertise my betting books on the platform. I am now trying to advertise my books of Stoic quotes, and it's going all right so far.
 
 ## The future
 
