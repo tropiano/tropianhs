@@ -42,7 +42,7 @@ I have got now **45 subscribers on my YT channel, +5 from last month** and the s
 
 ## [Freelancing][personal]
 
-I kept freelancing in May, **lost one client, but found another one**. Here I am not going to post the earnings, but enough to say that they range between 2.5k and 4k a month, depending on what I do. And I am doing very interesting work, and although I am not saving anything, it helps me and my family pay the bills.
+Still doing it. I am keeping the number of projects low for now, because again, I want to keep some time free to pursue side projects. I am going to write more about this (including revenue and projects I work on) in [my TG channel][tg-datafreelance].
 
 ## The cashflow
 
@@ -50,7 +50,7 @@ Time to look at the income for this month (without freelancing).
 
 | Item                 | Income/Expense |
 | -------------------- | -------------- |
-| Amazon book sales    | + $113.38      |
+| Amazon book sales    | + $151.25      |
 | Appliku              | - $10.00       |
 | Hetzner              | - $6.97        |
 | X Premium            | - $11.15       |
