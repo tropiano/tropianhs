@@ -8,7 +8,7 @@ header-image: /images/june-report.jpg
 
 Another month another report. Looking at my notes, it seems such a long time ago. I guess that means I am making progress, or at least I am moving forward and doing things. Which is positive.
 
-I started to meet new people again in June, which is something I didn't do since a very long time. Living in another country is complicated to find new people, but social media help. Despite all the hate and brainrot online, I still think socials are a net positive in people's lives. Especially people that travel a lot and have non-standard interests.
+I started to meet new people again in June, which is something I didn't do since a very long time. Living in another country is complicated to find new people, but social media help. Despite all the hate and brainrot online, I still think social medias are a net positive in people's lives. Especially people that travel a lot and have non-standard interests.
 
 Work-wise, I kept freelancing, this helps me have a stable income. Although I am not saving, and actually losing a few hundreds each month. Life is expensive in Moscow, and the exchange rate is not making it easier.
 
