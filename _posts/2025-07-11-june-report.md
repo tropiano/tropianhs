@@ -63,7 +63,7 @@ Last month I was thinking of reinvesting all money setting up ads for my books o
 
 ## The future
 
-Re-reading this update, **I think I am doing too many things at once**. I am definitely trying the strategy of throwing spaghetti at the wall and see what sticks, but I am sticking with spagetti projects that don't work for too long. Spending time on things that don't work is not a good idea, but I also **have a hard time letting go and understanding what is not worth my time anymore**. Maybe I will give one full month of attention to each of my projects and if it doesn't get traction I kill it? Sounds like a good strategy to move faster.
+My immediate goal is to launch another small product. This is just to exercise my shipping muscle, I don't have expectations of big earnings. I will launch in mid-July, probably. My third project will most certainly be a book. I want to take self-publishing more seriously, and I think I can be successful at it. Let's see.
 
 [soccrbets]: https://soccrbets.com
 [xtopics]: https://xtopics.co
