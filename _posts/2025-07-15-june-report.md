@@ -59,7 +59,7 @@ Time to look at the income for this month (without freelancing).
 | HuggingFace        | - $3.17        |
 | **Total**          | **+$138.58**   |
 
-Going back to positive territory again, after the big drop in book sales that happened last month. But **I should think like a startup and invest every bit of profit from my projects back into the business**. There are a few things that come to mind
+Last month I was thinking of reinvesting all money setting up ads for my books or paying for some API that could improve my products. I invested in Ads and saw a small uptick in sales, but unfortunately I cannot advertise my betting books on the platform. I will try to in the Going back to positive territory again, after the big drop in book sales that happened last month. But **I should think like a startup and invest every bit of profit from my projects back into the business**. There are a few things that come to mind
 
 1. Turn on **Amazon ads** for my soccer betting books.
 2. Pay for X API and **expand xTopics in the X/Twitter niche**.
