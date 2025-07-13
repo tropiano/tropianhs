@@ -8,11 +8,11 @@ header-image: /images/june-report.jpg
 
 Another month another report. Looking at my notes, it seems such a long time ago. I guess that means I am making progress, or at least I am moving forward and doing things. Which is positive.
 
-I started to meet new people again in June, which is something I didn't do since a very long time. Living in another country is complicated to find new people, but social media help. Despite all the hate and brainrot online, I still think social medias are a net positive in people's lives. Especially people that travel a lot and have non-standard interests.
+I started to meet new people again in June, which is something I didn't do since a very long time. Living in another country is complicated to find new people, but social media help. Despite all the hate and brainrot online, **I still think social medias are a net positive in people's lives**. Especially people that travel a lot and have non-standard interests.
 
 Work-wise, I kept freelancing, this helps me have a stable income. Although I am not saving, and actually losing a few hundreds each month. Life is expensive in Moscow, and the exchange rate is not making it easier.
 
-Time is still an issue, but getting better. I manage to find time to build on the side, especially at night and sometimes on weekends. I got into a routine where around 9 pm everybody is asleep, and I can build for 2-3 hours. I think that's what Pat Walls does. Focused work for 2 hours every day is enough to build a business.
+Time is still an issue, but getting better. I manage to find time to build on the side, especially at night and sometimes on weekends. I got into a routine where around 9 pm everybody is asleep, and **I can build for 2-3 hours**. I think that's what Pat Walls does. Focused work for 2 hours every day is enough to build a business.
 
 But I feel like I'm a bit rusty and cannot ship as fast as before. That's why in June I decided to challenge myself. I am going to ship 3 products by the end of the Summer. Ideally one each month. Let's see if I can make it. The goal is to build some ship muscle, not to launch a big success. Low expectations.
 
@@ -30,7 +30,7 @@ Subscribers were stable in **June at a total of 2030**.
 
 ## [xTopics][xtopics]
 
-I [launched a Product Hunt trend tracker!][ph-launch] It's built on Product Hunt API, and it shows the trending topics in the top products that are launched on PH. The launch went well I must say. I got featured, with 130 upvotes I was in the top 20 of the day. Did it translate in sales? Not so far, but I got 15 new subscribers. None of them uses Threads, so I guess they are pretty much useless. But they might be an initial set of users in case I decided to pivot in the direction of a Tech trends tracker.
+I [launched a Product Hunt trend tracker!][ph-launch] It's built on Product Hunt API, and it shows the trending topics in the top products that are launched on PH. The launch went well I must say. I got featured, with **130 upvotes I was in the top 20 of the day**. Did it translate in sales? Not so far, but I got 15 new subscribers. None of them uses Threads, so I guess they are pretty much useless. But they might be an initial set of users in case I decided to pivot in the direction of a Tech trends tracker.
 
 As I wrote before, this was not really an effort to launch a new product. It's been more to exercise my shipping muscle. I have already improved my boilerplate a lot and the next product I will launch will be even better.
 
