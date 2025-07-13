@@ -63,7 +63,7 @@ Last month I was thinking of reinvesting all money setting up ads for my books o
 
 ## The future
 
-My immediate goal is to launch another small product. This is just to exercise my shipping muscle, I don't have expectations of big earnings. I will launch in mid-July, probably. My third project will most certainly be a book. I want to take self-publishing more seriously, and I think I can be successful at it. Let's see.
+My immediate goal is to launch another small product. This is just to exercise my shipping muscle, I don't have expectations of big earnings. I will launch in mid-July, probably. **My third project will most certainly be a book**. I want to take self-publishing more seriously, and I think I can be successful at it. Let's see.
 
 [soccrbets]: https://soccrbets.com
 [xtopics]: https://xtopics.co
