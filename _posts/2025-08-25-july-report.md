@@ -8,7 +8,7 @@ header-image: /images/july-report.jpg
 
 I'm very late this month with the report. But I want to write it before the end of August.
 
-Not much has happened last month. I kept freelancing, and missed my target of launching another product by the end of the month. I spent half of July traveling and this didn't help either.
+Not much has happened last month. I kept freelancing, and **missed my target** of launching another product by the end of the month. I spent half of July traveling and this didn't help either.
 
 On the positive side, I think I see a clear path forward, and it's not about building another SaaS. I've already started working on it and paused everything else.
 
@@ -47,9 +47,9 @@ Time to look at the income for this month (without freelancing).
 | HuggingFace        | - $3.17        |
 | **Total**          | **+$76.35**    |
 
-Reinvested sales money in ads for my Stoic quotes book. For now, it's not paying off, but I will adjust the campaigns a bit in the future, and I'm confident they will get better.
+Reinvested sales money in ads for my Stoic quotes book. For now, it's not paying off, **I spend more than I earn**. But I will adjust the campaigns a bit in the future, and I'm confident they will get better.
 
-I'm focusing 100% on publishing going forward. Building a product hasn't brought any revenue, and I'm sitting on a few books published in 2020 that are still making money today. It's time to double down on this.
+I'm **focusing 100% on publishing** going forward. Building a product hasn't brought any revenue, and I'm sitting on a few books published in 2020 that are still making money today. It's time to double down on this.
 
 [soccrbets]: https://soccrbets.com
 [xtopics]: https://xtopics.co
