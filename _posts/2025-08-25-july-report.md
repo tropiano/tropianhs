@@ -44,8 +44,7 @@ Time to look at the income for this month (without freelancing).
 | Appliku            | - $10.00       |
 | Hetzner            | - $6.65        |
 | X Premium          | - $9.34        |
-| HuggingFace        | - $3.17        |
-| **Total**          | **+$76.35**    |
+| **Total**          | **+$79.52**    |
 
 Reinvested sales money in ads for my Stoic quotes book. For now, it's not paying off, **I spend more than I earn**. But I will adjust the campaigns a bit in the future, and I'm confident they will get better.
 
