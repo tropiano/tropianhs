@@ -60,7 +60,7 @@ Time to look at the income for this month (without freelancing).
 I didn't think I would end the month with another net negative.
 But I guess the cover and the ads where pretty expensive. I am kind **regretting it for the cover**, and I have already asked another revision. I don't know if it's worth the money, but I wouldn't be able to do it by myself. I don't know. Judge by yourself. And let me know.
 
-![My book cover]({{ site.baseurl }}/images/cover_black.jpg){: width=50% }
+![My book cover]({{ site.baseurl }}/images/cover_black.jpg){: width="50%" }
 
 Anyway, time to go back to work. I am going to give it all to this book, and hope that it finally works. **It's almost 10 years that I am trying to build a side-income**, I tried everything and nothing worked particularly well. But I am confident that if I focus on this thing only, it can bring a big result.
 
