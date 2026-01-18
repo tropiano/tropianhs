@@ -10,7 +10,7 @@ Doing better than last month. I am **writing the report before the 15th**. Which
 
 These reports will get more and more boring until I reach some kind of breakthrough. This is because I am just focusing exactly on one thing, publishing **Quantum Physics for Absolute Beginners**.
 
-Apart from the boo, I focus only on **freelancing to pay the bills**.
+Apart from the book, I focus only on **freelancing to pay the bills**.
 
 ## [Data Freelance][tg-datafreelance]
 
