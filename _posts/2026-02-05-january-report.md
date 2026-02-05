@@ -10,9 +10,7 @@ Finally a write up that appears in the first week of the month.
 
 In January, I spent most of my time writing and launching the first book of the year. This is a short book, not like Quantum Physics for Beginners. And it's aimed at selling around a specific holiday in February. And it's not Valentine's day. Can;t ssay much more about it. But it's definitely an experiment that, so far, is going quite well.
 
-I am still freelancing, but the time I devote to it **has significantly reduced**. So has the income coming from it. Which makes it difficult to pay the bills.
-
-I also really don't see myself freelancing **more than 50 hours per month** and fulfilling the duties of being a dad at the same time. I just don't have the time. Any advice you might have, would be welcome.
+I kept freelancing, but not more than 2 days per week. Will I look for other freelancing opportunities? Let's say not in the next couple of months.
 
 ## [Data Freelance][tg-datafreelance]
 
