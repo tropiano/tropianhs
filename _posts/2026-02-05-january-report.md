@@ -8,7 +8,7 @@ header-image: /images/jan-report.jpg
 
 Finally a write up that appears in the first week of the month.
 
-In January, I spent most of my time writing and launching the first book of the year. This is a short book, not like Quantum Physics for Beginners. And it's aimed at selling around a specific holiday in February. And it's not Valentine's day. Can;t ssay much more about it. But it's definitely an experiment that, so far, is going quite well.
+In January, I spent most of my time writing and launching the first book of the year. This is a short book, not like [Quantum Physics for Beginners][book-link]. And it's aimed at selling around a specific holiday in February. And it's not Valentine's Day. Can't say much more about it. But it's definitely an experiment that, so far, is going quite well.
 
 I kept freelancing, but not more than 2 days per week. Will I look for other freelancing opportunities? Let's say not in the next couple of months.
 
@@ -30,7 +30,7 @@ Paused.
 
 ## [Freelancing][personal]
 
-Still doing it. Reduced hours, same rate. Barely pays the rent after taxes.
+Roughly working 60 hours per month, or around 2 days per week.
 
 ## [Publishing][publishing]
 
