@@ -42,16 +42,16 @@ For the second book I learnt from my mistakes and I published the e-book first, 
 
 Time to look at the income for this month (without freelancing).
 
-| Item              | Income/Expense                                  |
-| ----------------- | ----------------------------------------------- |
-| Amazon book sales | + $359.71                                       |
-| Book Ads          | - $327.47                                       |
-| Appliku           | - $10.00                                        |
-| Hetzner           | - $6.65                                         |
-| X Premium         | - $8.72                                         |
-| Grammarly         | - $14.00                                        |
-| Ideogram          | - $25.00                                        |
-| **Total**         | <span style="color: red;"> **-$158.96** </span> |
+| Item              | Income/Expense                                 |
+| ----------------- | ---------------------------------------------- |
+| Amazon book sales | + $359.71                                      |
+| Book Ads          | - $327.47                                      |
+| Appliku           | - $10.00                                       |
+| Hetzner           | - $6.65                                        |
+| X Premium         | - $8.72                                        |
+| Grammarly         | - $14.00                                       |
+| Ideogram          | - $25.00                                       |
+| **Total**         | <span style="color: red;"> **-$32.13** </span> |
 
 I am in **terrible red**. But I was expecting it, especially with the money spent on ads for the book launch. January seems to be already at break-even or even slightly profitable.
 
