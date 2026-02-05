@@ -36,12 +36,7 @@ Roughly working 60 hours per month, or around 2 days per week.
 
 I kept spending on ads for [the Quantum Physics book][book-link] in January too, but with a reduced budget. Around the beginning of January I managed to reach was around 60k, which corresponds to 4 or 5 sales per day. And I also managed to keep the best-selling badge in a few categories for the e-book version. I think keeping the price of the e-book very low contributed to getting the badge, which is definitely helping the sales of the paperback too. I also pushed up the price a couple of times, and now I am not far from my competitors price tag, but there is still margin to go higher. I think I was slightly profitable on the book this month, or around break-even. To push sales, I need to market the book outside of Amazon ads. Maybe TikTok.
 
-For the second book I learnt from my mistakes and I published the e-book first, got more reviews than my direct competitor and then published the second book. The sales started slowly, but now they are picking up, and I have reached a healthy 100k BSR. The peak of the sales should happen next week. Let's see how much I can sell.
-
-- Publish the e-book
-- Gather reviews for the first 2-3 weeks (10 or 15 should be enough)
-- Publish the paperback
-- Run ads after
+For the second book I learnt from my mistakes and I published the e-book first, got more reviews than my direct competitor and then published the second book. The sales started slowly, but now they are picking up, and I have reached a healthy 100k BSR. The peak of the sales should happen next week. Let's see how much I can sell. So far I have sold 20 copies, of which 10 paperback. I need to get to 50 paperback copies to break even and from there it will be all profit.
 
 The launch was quite slow, but I managed to **sell 169 copies** of the book (40 paperbacks and 129 e-book copies) including the free ones. My main goal this month was to gather reviews, and I was able to get to 15, but I think I can get more, especially because some of my ARC readers have not submitted one yet.
 
