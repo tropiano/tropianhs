@@ -34,7 +34,9 @@ Roughly working 60 hours per month, or around 2 days per week.
 
 ## [Publishing][publishing]
 
-I kept spending on ads for [the Quantum Physics book][book-link] in January too, but with a reduced budget. Around the beginning of January I managed to reach was around 60k, which corresponds to 4-5 sales per day. And I also managed to keep the best selling badge in a few categories for the ebook version. I think keeping the price of the ebook very low contributed to getting the badge, which is defintely helping the sales of the paperback too. I make most of the money with the paperback the at the end of the November I **spent aggressively on ads** for the whole of December. I found out that December is probably the worst month to launch, since ads are very expensive. Also, I think I made a mistake launching the e-book and the paperback at the same time. Note to myself, next time do:
+I kept spending on ads for [the Quantum Physics book][book-link] in January too, but with a reduced budget. Around the beginning of January I managed to reach was around 60k, which corresponds to 4 or 5 sales per day. And I also managed to keep the best-selling badge in a few categories for the e-book version. I think keeping the price of the e-book very low contributed to getting the badge, which is definitely helping the sales of the paperback too. I also pushed up the price a couple of times, and now I am not far from my competitors price tag, but there is still margin to go higher. I think I was slightly profitable on the book this month, or around break-even. To push sales, I need to market the book outside of Amazon ads. Maybe TikTok.
+
+For the second book I learnt from my mistakes and I published the e-book first, got more reviews than my direct competitor and then published the second book.
 
 - Publish the e-book
 - Gather reviews for the first 2-3 weeks (10 or 15 should be enough)
