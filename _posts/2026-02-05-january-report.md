@@ -6,9 +6,9 @@ tags: indie hacking
 header-image: /images/jan-report.jpg
 ---
 
-This report is so late it's embarrassing. So let's not talk about it.
+Finally a write up that appears in the first week of the month.
 
-In December, I was still focusing on the Quantum Physics book, and **started to write a second one**.
+In January, I spent most of my time writing and launching the first book of the year. This is a short book, not like Quantum Physics for Beginners. And it's aimed at selling around a specific holiday in February. And it's not Valentine's day. Can;t ssay much more about it. But it's definitely an experiment that, so far, is going quite well.
 
 I am still freelancing, but the time I devote to it **has significantly reduced**. So has the income coming from it. Which makes it difficult to pay the bills.
 
