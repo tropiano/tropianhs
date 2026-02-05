@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "December 2025 Earnings"
+title: "January 2026 Earnings"
 categories: diary
 tags: indie hacking
-header-image: /images/dec-report.jpg
+header-image: /images/jan-report.jpg
 ---
 
 This report is so late it's embarrassing. So let's not talk about it.
