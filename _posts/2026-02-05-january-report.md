@@ -34,7 +34,7 @@ Roughly working 60 hours per month, or around 2 days per week.
 
 ## [Publishing][publishing]
 
-After having published [the book][book-link] at the end of the November I **spent aggressively on ads** for the whole of December. I found out that December is probably the worst month to launch, since ads are very expensive. Also, I think I made a mistake launching the e-book and the paperback at the same time. Note to myself, next time do:
+I kept spending on ads for [the Quantum Physics book][book-link] in January too, but with a reduced budget. at the end of the November I **spent aggressively on ads** for the whole of December. I found out that December is probably the worst month to launch, since ads are very expensive. Also, I think I made a mistake launching the e-book and the paperback at the same time. Note to myself, next time do:
 
 - Publish the e-book
 - Gather reviews for the first 2-3 weeks (10 or 15 should be enough)
