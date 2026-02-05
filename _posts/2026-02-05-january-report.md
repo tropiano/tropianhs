@@ -44,13 +44,12 @@ Time to look at the income for this month (without freelancing).
 
 | Item              | Income/Expense                                  |
 | ----------------- | ----------------------------------------------- |
-| Amazon book sales | + $205.60                                       |
-| Book Ads          | - $290.51                                       |
+| Amazon book sales | + $359.71                                       |
+| Book Ads          | - $327.47                                       |
 | Appliku           | - $10.00                                        |
 | Hetzner           | - $6.65                                         |
 | X Premium         | - $8.72                                         |
 | Grammarly         | - $14.00                                        |
-| CoPilot           | - $9.68                                         |
 | Ideogram          | - $25.00                                        |
 | **Total**         | <span style="color: red;"> **-$158.96** </span> |
 
