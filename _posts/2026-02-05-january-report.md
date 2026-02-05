@@ -34,7 +34,7 @@ Roughly working 60 hours per month, or around 2 days per week.
 
 ## [Publishing][publishing]
 
-I kept spending on ads for [the Quantum Physics book][book-link] in January too, but with a reduced budget. Around the beginning of January I managed to reach was around 60k, which corresponds to 4-5 sales per day. the at the end of the November I **spent aggressively on ads** for the whole of December. I found out that December is probably the worst month to launch, since ads are very expensive. Also, I think I made a mistake launching the e-book and the paperback at the same time. Note to myself, next time do:
+I kept spending on ads for [the Quantum Physics book][book-link] in January too, but with a reduced budget. Around the beginning of January I managed to reach was around 60k, which corresponds to 4-5 sales per day. And I also managed to keep the best selling badge in a few categories for the ebook version. I think keeping the price of the ebook very low contributed to getting the badge, which is defintely helping the sales of the paperback too. I make most of the money with the paperback the at the end of the November I **spent aggressively on ads** for the whole of December. I found out that December is probably the worst month to launch, since ads are very expensive. Also, I think I made a mistake launching the e-book and the paperback at the same time. Note to myself, next time do:
 
 - Publish the e-book
 - Gather reviews for the first 2-3 weeks (10 or 15 should be enough)
