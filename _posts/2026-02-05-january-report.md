@@ -34,15 +34,9 @@ Roughly working 60 hours per month, or around 2 days per week.
 
 ## [Publishing][publishing]
 
-I kept spending on ads for [the Quantum Physics book][book-link] in January too, but with a reduced budget. Around the beginning of January I managed to reach was around 60k, which corresponds to 4 or 5 sales per day. And I also managed to keep the best-selling badge in a few categories for the e-book version. I think keeping the price of the e-book very low contributed to getting the badge, which is definitely helping the sales of the paperback too. I also pushed up the price a couple of times, and now I am not far from my competitors price tag, but there is still margin to go higher. I think I was slightly profitable on the book this month, or around break-even. To push sales, I need to market the book outside of Amazon ads. Maybe TikTok.
+I kept spending on ads for [the Quantum Physics book][book-link] in January too, but with a reduced budget. Around the beginning of January I managed to reach was around 52k, which corresponds to 4 or 5 sales per day. And I also managed to keep the best-selling badge in a few categories for the e-book version. I think keeping the price of the e-book very low contributed to getting the badge, which is definitely helping the sales of the paperback too. I also pushed up the price a couple of times, and now I am not far from my competitors price tag, but there is still margin to go higher. I think I was slightly profitable on the book this month, or around break-even. To push sales, I need to market the book outside of Amazon ads. Maybe TikTok.
 
 For the second book I learnt from my mistakes and I published the e-book first, got more reviews than my direct competitor and then published the second book. The sales started slowly, but now they are picking up, and I have reached a healthy 100k BSR. The peak of the sales should happen next week. Let's see how much I can sell. So far I have sold 20 copies, of which 10 paperback. I need to get to 50 paperback copies to break even and from there it will be all profit.
-
-The launch was quite slow, but I managed to **sell 169 copies** of the book (40 paperbacks and 129 e-book copies) including the free ones. My main goal this month was to gather reviews, and I was able to get to 15, but I think I can get more, especially because some of my ARC readers have not submitted one yet.
-
-Since it's very hard to get reviews these days, it's unrealistic for me to push much harder. It won't help my rank unless I get to 100 reviews and **I do not have the budget** for it. But I hope to slowly get them organically over the next few months. I am keeping my e-book price very as low as I can at $0.99 and this helps to attract some readers that might leave a review. So basically, I use the e-book for the reviews, I'll make the money with the paperback.
-
-My BSR (Best Seller Rank) as of today is 152K, but **I could get as low as 52k** at the beginning of January. Ideally I would keep it lower than 100k, but I would have to spend much more on ads.
 
 ## The cashflow
 
