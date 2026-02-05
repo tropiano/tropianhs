@@ -51,6 +51,8 @@ Time to look at the income for this month (without freelancing).
 | X Premium         | - $8.72                                        |
 | Grammarly         | - $14.00                                       |
 | Ideogram          | - $25.00                                       |
+| Book cover        | - $25.00                                       |
+|                   | - $25.00                                       |
 | **Total**         | <span style="color: red;"> **-$32.13** </span> |
 
 I am in **terrible red**. But I was expecting it, especially with the money spent on ads for the book launch. January seems to be already at break-even or even slightly profitable.
