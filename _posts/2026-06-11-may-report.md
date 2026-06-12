@@ -56,7 +56,7 @@ Let's look at how much money I made with KDP this month.
 | Ideogram          | - $24                                           |
 | Perplexity        | - $24                                           |
 | TikTok content    | - $125                                          |
-| **Total**         | <span style="color: red;"> **$207.71** </span> |
+| **Total**         | <span style="color: green;"> **$207.71** </span> |
 
 It's the best month of the year so far. And I notice that I have a lot of costs that can be classified as production costs for my next book. Since I am publishing one book every month, these are basically recurring. But if I had to stop publishing and just wanted to profit from the books that I have already published, I would probably make around $500/month net. 
 
