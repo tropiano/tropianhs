@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ocotber 2026 Earnings"
+title: "October 2026 Earnings"
 categories: diary
 tags: indie hacking
 header-image: /images/oct-report.jpg
